@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Peter Molyneux was the founder of Bullfrog Productions.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The Mann Co. Store from Team Fortress 2 has the slogan &quot;We hire mercenaries and get in fights&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these levels does NOT appear in the console\/PC versions of the game &quot;Sonic Generations&quot;?",
+            "correct_answer": "Mushroom Hill",
+            "incorrect_answers": [
+                "City Escape",
+                "Planet Wisp",
+                "Sky Sanctuary"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these is NOT a team available in the game Pok&eacute;mon Go?",
+            "correct_answer": "Team Rocket",
+            "incorrect_answers": [
+                "Team Instinct",
+                "Team Valor",
+                "Team Mystic"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Grand Theft Auto V, what was Michael De Santa&#039;s former surname?",
+            "correct_answer": "Townley",
+            "incorrect_answers": [
+                "De Santos",
+                "Watson",
+                "Simpson"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "When was Steam first released?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2004",
+                "2011",
+                "2007"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the title of song on the main menu in Halo?",
+            "correct_answer": "Halo",
+            "incorrect_answers": [
+                "Opening Suite",
+                "Shadows",
+                "Suite Autumn"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In what year was the game &quot;Fallout&quot; released?",
+            "correct_answer": "1997",
+            "incorrect_answers": [
+                "1998",
+                "1999",
+                "1996"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "If you play the Super Mario RPG and nap in a rented hotel room, you will wake up next to what familiar looking character?",
+            "correct_answer": "Link",
+            "incorrect_answers": [
+                "Wario",
+                "Q*bert",
+                "Solid Snake"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Minecraft can be played with a virtual reality headset.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What year was the game Dishonored released?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2011",
+                "2008",
+                "2013"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Fallout 4, which type of power armor is first encountered in the early mission &quot;When Freedom Calls&quot; in a crashed Vertibird?",
+            "correct_answer": "T-45",
+            "incorrect_answers": [
+                "T-51",
+                "T-60",
+                "X-01"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "According to Toby Fox, what was the method to creating the initial tune for Megalovania?",
+            "correct_answer": "Singing into a Microphone",
+            "incorrect_answers": [
+                "Playing a Piano",
+                "Using a Composer Software",
+                "Listened to birds at the park"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which is not a playable character in the 2005 video game Killer7?",
+            "correct_answer": "Frank Smith",
+            "incorrect_answers": [
+                "Mask de Smith",
+                "Dan Smith",
+                "Coyote Smith"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In World of Warcraft lore, which of the following is known as the God of Spiders in the troll&#039;s loa beliefs?",
+            "correct_answer": "Elortha no Shadra",
+            "incorrect_answers": [
+                "Bwonsamdi",
+                "Hakkar",
+                "Shirvallah"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?",
+            "correct_answer": "Eye of Cthulhu",
+            "incorrect_answers": [
+                "Plantera",
+                "Skeletron Prime",
+                "The Destroyer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game &quot;Persona 4&quot;, what is the canonical name of the protagonist?",
+            "correct_answer": "Yu Narukami",
+            "incorrect_answers": [
+                "Chino Mashido",
+                "Tunki Sunada",
+                "Masaki Narinaka"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these characters was considered, but ultimately not included, for Super Smash Bros. Melee?",
+            "correct_answer": "James Bond",
+            "incorrect_answers": [
+                "Diddy Kong",
+                "Mega Man",
+                "Wave Racer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Rust, how many Timed Explosive Charges does it take to destroy a Ladder Hatch?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "3",
+                "2",
+                "5"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The creeper in Minecraft was the result of a bug while implementing which creature?",
+            "correct_answer": "Pig",
+            "incorrect_answers": [
+                "Zombie",
+                "Chicken",
+                "Cow"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "During development of &quot;Super Mario World&quot;, Yoshi&#039;s hard saddle was originally which of these?",
+            "correct_answer": "A shell",
+            "incorrect_answers": [
+                "A slide of Gelatin",
+                "A poffin",
+                "A spike"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In RuneScape, one must complete the &quot;Dragon Slayer&quot; quest before equipping Rune Platelegs.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The cake depicted in Valve&#039;s &quot;Portal&quot; franchise most closely resembles which real-world type of cake?",
+            "correct_answer": "Black Forest",
+            "incorrect_answers": [
+                "Devil&#039;s Food",
+                "Molten Chocolate",
+                "German Chocolate"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which operation in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; introduced the &quot;Skyscraper&quot; map?",
+            "correct_answer": "Red Crow",
+            "incorrect_answers": [
+                "Velvet Shell",
+                "Skull Rain",
+                "Dust Line"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In the video game &quot;Transistor&quot;, &quot;Red&quot; is the name of the main character.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the English voice actor for Sora from the Kingdom Hearts series?",
+            "correct_answer": "Haley Joel Osment",
+            "incorrect_answers": [
+                "K\u014dki Uchiyama",
+                "Jesse McCartney",
+                "Miyu Irino"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Overwatch&quot;, how much health does Roadhog&#039;s &quot;Take a Breather&quot; ability recover?",
+            "correct_answer": "300",
+            "incorrect_answers": [
+                "100",
+                "200",
+                "400"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was the video game &quot;P.A.M.E.L.A.&quot; released on Steam?",
+            "correct_answer": "March 9, 2017",
+            "incorrect_answers": [
+                "January 7, 2007",
+                "October 23, 1997",
+                "February 16, 2015"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; was released in 2004.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was &quot;System Shock&quot; released?",
+            "correct_answer": "1994",
+            "incorrect_answers": [
+                "1995",
+                "2000",
+                "1998"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Overwatch&quot;, which hero is able to wallride?",
+            "correct_answer": "Lucio",
+            "incorrect_answers": [
+                "Reinhardt",
+                "Sombra",
+                "Mercy"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which &quot;Perk-A-Cola&quot; in &quot;Call Of Duty: Zombies&quot; was &quot;reworked&quot; in &quot;Call of Duty: Black Ops II&quot;?",
+            "correct_answer": "Double Tap Root Beer",
+            "incorrect_answers": [
+                "Who&#039;s Who",
+                "Juggernog",
+                "Mule Kick"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, &quot;Richtofen&quot; is in possession of two filled blood vials belonging to who?",
+            "correct_answer": "Sal DeLuca and Finn O&#039;Leary",
+            "incorrect_answers": [
+                "Richtofen",
+                "Al Arlington and Sal DeLuca",
+                "Jessica Rose and Jack Vincent"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?",
+            "correct_answer": "Arcane + Shield",
+            "incorrect_answers": [
+                "Lightning + Shield",
+                "Lightning + Life",
+                "Arcane + Life"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake &quot;Virt&quot; Kaufman?",
+            "correct_answer": "Uncle Eli",
+            "incorrect_answers": [
+                "Cadence",
+                "Nocturna",
+                "Octavian (Bard)"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What are the names of the Ice Climbers in the video game Ice Climber?",
+            "correct_answer": "Popo and Nana",
+            "incorrect_answers": [
+                "Popo and Nina",
+                "Papi and Nana",
+                "Papi and Nina"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these characters is NOT a boss in Crash Bash?",
+            "correct_answer": "Ripper Roo",
+            "incorrect_answers": [
+                "Papu Papu",
+                "Komodo brothers",
+                "Nitros Oxide"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What are tiny Thwomps called in Super Mario World?",
+            "correct_answer": "Thwimps",
+            "incorrect_answers": [
+                "Little Thwomp",
+                "Mini Thwomp",
+                "Tiny Tims"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following is not a prosecutor in the &quot;Ace Attorney&quot; video game series?",
+            "correct_answer": "Jake Marshall",
+            "incorrect_answers": [
+                "Godot",
+                "Miles Edgeworth",
+                "Jacques Portsman"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Fallout: New Vegas, upon starting each one of the four campaign DLCs, which one of them does not have a warning screen\/recommended level? ",
+            "correct_answer": "Honest Hearts ",
+            "incorrect_answers": [
+                "Old World Blues",
+                "Lonesome Road",
+                "Dead Money"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the game Warframe, what Mastery Rank do you need to have to build the Tigris Prime?",
+            "correct_answer": "13",
+            "incorrect_answers": [
+                "6",
+                "18",
+                "10"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which game won the &quot;Games for Impact&quot; award in The Game Awards 2015?",
+            "correct_answer": "Life is Strange",
+            "incorrect_answers": [
+                "Ori and the Blind Forest",
+                "Rocket League",
+                "Metal Gear Solid V: The Phantom Pain"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The &#039;64&#039; in the Nintendo-64 console refers to what?",
+            "correct_answer": "The bits in the CPU architecture",
+            "incorrect_answers": [
+                "The number of megabytes of RAM",
+                "Capacity of the ROM Cartridges in megabytes",
+                "Clock speed of the CPU in Hertz"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What numbers did Sayaka Maizono write on the wall in Dangan Ronpa Trigger Happy Havoc?",
+            "correct_answer": "11037",
+            "incorrect_answers": [
+                "4, 8, 15, 16, 23, 42",
+                "55730",
+                "3, 9, 11, 12, 15, 17,"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Each piece in Tetris is called a tetris.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which retro video game was released first?",
+            "correct_answer": "Space Invaders",
+            "incorrect_answers": [
+                "Galaga",
+                "Pac-Man",
+                "Asteroids"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Minecraft wasn&rsquo;t the original name to Minecraft.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these covert groups employs Sam Fisher to work as a Splinter Cell?",
+            "correct_answer": "Third Echelon",
+            "incorrect_answers": [
+                "Voron",
+                "Black Arrow",
+                "The Engineers"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In &quot;Resident Evil&quot;, only Chris has access to the grenade launcher.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,599 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+            "correct_answer": "Putney",
+            "incorrect_answers": [
+                "Hammersmith",
+                "Vauxhall ",
+                "Battersea"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+            "correct_answer": "Jordan",
+            "incorrect_answers": [
+                "Benetton",
+                "Ferrari",
+                "Mercedes"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+            "correct_answer": "Puma",
+            "incorrect_answers": [
+                "Nike",
+                "Adidas",
+                "Reebok"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+            "correct_answer": "Big Daddy",
+            "incorrect_answers": [
+                "Giant Haystacks",
+                "Kendo Nagasaki",
+                "Masambula"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Northampton Town",
+                "Bradford City",
+                "West Bromwich Albion"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+            "correct_answer": "Alain Prost",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Niki Lauda",
+                "Emerson Fittipaldi"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many scoring zones are there on a conventional dart board?",
+            "correct_answer": "82",
+            "incorrect_answers": [
+                "62",
+                "42",
+                "102"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "With which doubles partner did John McEnroe have most success?",
+            "correct_answer": "Peter Fleming",
+            "incorrect_answers": [
+                "Mark Woodforde",
+                "Michael Stich",
+                "Mary Carillo"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The F1 season of 1994 is remembered for what tragic event?",
+            "correct_answer": "Death of Ayrton Senna (San Marino)",
+            "incorrect_answers": [
+                "The Showdown (Australia)",
+                "Verstappen on Fire (Germany)",
+                "Schumacher&#039;s Ban (Britain)"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Peyton Manning retired after winning Super Bowl XLIX.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+            "correct_answer": "August 21",
+            "incorrect_answers": [
+                "August 23",
+                "August 19",
+                "August 17"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Josh Mansour is part of what NRL team?",
+            "correct_answer": "Penrith Panthers",
+            "incorrect_answers": [
+                "Melbourne Storm",
+                "Sydney Roosters",
+                "North Queensland Cowboys"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Ferrari"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+            "correct_answer": "Mazda",
+            "incorrect_answers": [
+                "Toyota",
+                "Subaru",
+                "Nissan"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The Olympics tennis court is a giant green screen.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Paraguay"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Colombia"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team won 2014 FIFA World Cup in Brazil?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Netherlands"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What national team won the 2016 edition of UEFA European Championship?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "France",
+                "Germany",
+                "England"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+            "correct_answer": "Mercedes-AMG Petronas",
+            "incorrect_answers": [
+                "Scuderia Ferrari",
+                "McLaren Honda",
+                "Red Bull Racing Renault"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+            "correct_answer": "Quebec City",
+            "incorrect_answers": [
+                "Houston",
+                "Montreal",
+                "New York"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the oldest team in Major League Baseball?",
+            "correct_answer": "Atlanta Braves",
+            "incorrect_answers": [
+                "Chicago Cubs",
+                "Cincinnati Reds",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+            "correct_answer": "Jules Bianchi",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Ronald Ratzenberger",
+                "Gilles Villeneuve"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team has won the most Stanley Cups in the NHL?",
+            "correct_answer": "Montreal Canadians",
+            "incorrect_answers": [
+                "Chicago Blackhawks",
+                "Toronto Maple Leafs",
+                "Detroit Red Wings"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the full name of the footballer &quot;Cristiano Ronaldo&quot;?",
+            "correct_answer": "Cristiano Ronaldo dos Santos Aveiro",
+            "incorrect_answers": [
+                "Cristiano Ronaldo los Santos Diego",
+                "Cristiano Armando Diego Ronaldo",
+                "Cristiano Luis Armando Ronaldo"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the &quot;Champions League&quot; in 1999?",
+            "correct_answer": "Manchester United",
+            "incorrect_answers": [
+                "Barcelona",
+                "Bayern Munich",
+                "Liverpool"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+            "correct_answer": "Ohio State Buckeyes",
+            "incorrect_answers": [
+                "Alabama Crimson Tide",
+                "Clemson Tigers",
+                "Wisconsin Badgers"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which year was the third Super Bowl held?",
+            "correct_answer": "1969",
+            "incorrect_answers": [
+                "1968",
+                "1971",
+                "1970"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+            "correct_answer": "Jose Fernandez",
+            "incorrect_answers": [
+                "Jacob deGrom",
+                "Shelby Miller",
+                "Matt Harvey"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+            "correct_answer": "American Football",
+            "incorrect_answers": [
+                "Wrestling",
+                "Archery",
+                "Horse-Racing"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which African American is in part responsible for integrating  Major League baseball?",
+            "correct_answer": "Jackie Robinson",
+            "incorrect_answers": [
+                "Curt Flood",
+                "Roy Campanella",
+                "Satchell Paige"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which player holds the NHL record of 2,857 points?",
+            "correct_answer": "Wayne Gretzky",
+            "incorrect_answers": [
+                "Mario Lemieux ",
+                "Sidney Crosby",
+                "Gordie Howe"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+            "correct_answer": "Pittsburgh",
+            "incorrect_answers": [
+                "New York",
+                "Seattle",
+                "Tampa Bay"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+            "correct_answer": "13",
+            "incorrect_answers": [
+                "11",
+                "20",
+                "22"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of Manchester United&#039;s home stadium?",
+            "correct_answer": "Old Trafford",
+            "incorrect_answers": [
+                "Anfield",
+                "City of Manchester Stadium",
+                "St James Park"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?",
+            "correct_answer": "Eric Cantona",
+            "incorrect_answers": [
+                "David Seamen",
+                "Ashley Cole",
+                "Mark Hughes"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Who is Manchester United&#039;s leading appearance maker?",
+            "correct_answer": "Ryan Giggs",
+            "incorrect_answers": [
+                "David Beckham",
+                "Wayne Rooney",
+                "Eric Cantona"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+            "correct_answer": "Owen Hart",
+            "incorrect_answers": [
+                "Chris Benoit",
+                "Lex Luger",
+                "Al Snow"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Stadium of Light&quot; is the home stadium for which soccer team?",
+            "correct_answer": "Sunderland FC",
+            "incorrect_answers": [
+                "Barcelona FC",
+                "Paris Saints-Germain",
+                "Manchester United"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the UEFA Champions League in 2016?",
+            "correct_answer": "Real Madrid C.F.",
+            "incorrect_answers": [
+                "FC Bayern Munich",
+                "Atletico Madrid",
+                "Manchester City F.C."
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+            "correct_answer": "1-7",
+            "incorrect_answers": [
+                "1-5",
+                "1-6",
+                "2-6"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the 2011 Stanley Cup?",
+            "correct_answer": "Boston Bruins",
+            "incorrect_answers": [
+                "Montreal Canadiens",
+                "New York Rangers",
+                "Toronto Maple Leafs"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which two teams played in Super Bowl XLII?",
+            "correct_answer": "The New York Giants &amp; The New England Patriots",
+            "incorrect_answers": [
+                "The Green Bay Packers &amp; The Pittsburgh Steelers",
+                "The Philadelphia Eagles &amp; The New England Patriots",
+                "The Seattle Seahawks &amp; The Denver Broncos"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+            "correct_answer": "Horse Racing",
+            "incorrect_answers": [
+                "Chess",
+                "Jousting",
+                "Fencing"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+            "correct_answer": "India",
+            "incorrect_answers": [
+                "Australia",
+                "Turkey",
+                "Cambodia"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?",
+            "correct_answer": "Vladivostok",
+            "incorrect_answers": [
+                "Rostov-on-Don",
+                "Yekaterinburg",
+                "Kaliningrad"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the top scorer of the 2014 FIFA World Cup?",
+            "correct_answer": "James Rodr&iacute;guez",
+            "incorrect_answers": [
+                "Thomas M&uuml;ller",
+                "Lionel Messi",
+                "Neymar"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Canadian football, scoring a rouge is worth how many points?",
+            "correct_answer": "1",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The AHL affiliate team of the Boston Bruins is named what?",
+            "correct_answer": "Providence Bruins",
+            "incorrect_answers": [
+                "New Haven Bruins",
+                "Cambridge Bruins",
+                "Hartford Bruins"
+            ]
+        }
+    ]
+}

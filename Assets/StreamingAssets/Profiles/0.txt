@@ -1,0 +1,19 @@
+Mama
+255,209,0
+points:
+	entertainment:0
+	leisure:600
+	history:1400
+	geography:1200
+	science & nature:3000
+	brain-teasers:9100
+	arts & literature:0
+possiblePoints:
+	history:1600
+	science & nature:200
+	arts & literature:2200
+	brain-teasers:5300
+questionsCorrect:
+questionsSeen:
+gamesWon:0
+gamesPlayed:1

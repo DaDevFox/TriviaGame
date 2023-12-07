@@ -1,0 +1,19 @@
+Aanya
+255,209,0
+points:
+	entertainment:200
+	leisure:2800
+	history:1200
+	geography:1000
+	brain-teasers:11000
+	science & nature:200
+	arts & literature:0
+possiblePoints:
+	history:1200
+	science & nature:200
+	arts & literature:2600
+	brain-teasers:5700
+questionsCorrect:
+questionsSeen:
+gamesWon:1
+gamesPlayed:1

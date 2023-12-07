@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+            "correct_answer": "Nine",
+            "incorrect_answers": [
+                "Ten",
+                "Seven",
+                "Eight"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+            "correct_answer": "Hammer",
+            "incorrect_answers": [
+                "Wrench",
+                "Drill",
+                "Screwdriver"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In what sport is a &quot;shuttlecock&quot; used?",
+            "correct_answer": "Badminton",
+            "incorrect_answers": [
+                "Table Tennis",
+                "Rugby",
+                "Cricket"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team won the 2015-16 English Premier League?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Liverpool",
+                "Cheslea",
+                "Manchester United"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "A stimpmeter measures the speed of a ball over what surface?",
+            "correct_answer": "Golf Putting Green",
+            "incorrect_answers": [
+                " Football Pitch",
+                "Cricket Outfield",
+                "Pinball Table"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In baseball, how many fouls are an out?",
+            "correct_answer": "0",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the highest belt you can get in Taekwondo?",
+            "correct_answer": "Black",
+            "incorrect_answers": [
+                "White",
+                "Red",
+                "Green"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country will host the 2020 Summer Olympics?",
+            "correct_answer": "Japan",
+            "incorrect_answers": [
+                "China",
+                "Australia",
+                "Germany"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the 2015 Formula 1 World Championship?",
+            "correct_answer": "Lewis Hamilton",
+            "incorrect_answers": [
+                "Nico Rosberg",
+                "Sebastian Vettel",
+                "Jenson Button"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Tennis was once known as Racquetball.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+            "correct_answer": "Michael Schumacher",
+            "incorrect_answers": [
+                "Ayrton Senna",
+                "Fernando Alonso",
+                "Jim Clark"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which team was the 2015-2016 NBA Champions?",
+            "correct_answer": "Cleveland Cavaliers",
+            "incorrect_answers": [
+                "Golden State Warriors",
+                "Toronto Raptors",
+                "Oklahoma City Thunders"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which team was the 2014-2015 NBA Champions?",
+            "correct_answer": "Golden State Warriors",
+            "incorrect_answers": [
+                "Cleveland Cavaliers",
+                "Houston Rockets",
+                "Atlanta Hawks"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Where was the Games of the XXII Olympiad held?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": [
+                "Barcelona",
+                "Tokyo",
+                "Los Angeles"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "correct_answer": "Pelle",
+            "incorrect_answers": [
+                "Insigne",
+                "Barzagli",
+                "Giaccherini"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which male player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "correct_answer": "Ma Long (China)",
+            "incorrect_answers": [
+                "Zhang Jike (China)",
+                "Jun Mizutani (Japan)",
+                "Vladimir Samsonov (Belarus)"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Formula E is an auto racing series that uses hybrid electric race cars.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+            "correct_answer": "Nico Rosberg",
+            "incorrect_answers": [
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Kimi Raikkonen"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What team won the 2016 MLS Cup?",
+            "correct_answer": "Seattle Sounders",
+            "incorrect_answers": [
+                "Colorado Rapids",
+                "Toronto FC",
+                "Montreal Impact"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following Grand Slam tennis tournaments occurs LAST?",
+            "correct_answer": "US Open",
+            "incorrect_answers": [
+                "French Open",
+                "Wimbledon",
+                "Australian Open"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+            "correct_answer": "84.39m",
+            "incorrect_answers": [
+                "100m",
+                "100yd",
+                "109.36yd"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.",
+            "correct_answer": "Don Cherry",
+            "incorrect_answers": [
+                "Don McKellar",
+                "Don Taylor ",
+                "Donald Sutherland"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Rugby League, performing a &quot;40-20&quot; is punished by a free kick for the opposing team.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Wilt Chamberlain scored his infamous 100-point-game against the New York Knicks in 1962.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year was hockey legend Wayne Gretzky born?",
+            "correct_answer": "1961",
+            "incorrect_answers": [
+                "1965",
+                "1959",
+                "1963"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+            "correct_answer": "Porsche",
+            "incorrect_answers": [
+                "Toyota",
+                "Audi",
+                "Chevrolet"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+            "correct_answer": "Mike Tyson",
+            "incorrect_answers": [
+                "Roy Jones Jr.",
+                "Evander Holyfield",
+                "Lennox Lewis"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In what sport does Fanny Chmelar compete for Germany?",
+            "correct_answer": "Skiing",
+            "incorrect_answers": [
+                "Swimming",
+                "Showjumping",
+                "Gymnastics"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "West Germany",
+                "Soviet Union",
+                "Brazil"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In bowling, what is the term used for getting three consecutive strikes?",
+            "correct_answer": "Turkey",
+            "incorrect_answers": [
+                "Flamingo",
+                "Birdie",
+                "Eagle"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "4",
+                "9",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "Sir Bobby Charlton",
+                "Ryan Giggs",
+                "David Beckham"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Tottenham Hotspur",
+                "Watford",
+                "Stoke City"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+            "correct_answer": "Wayne Rooney",
+            "incorrect_answers": [
+                "Cristiano Ronaldo",
+                "Robin Van Persie",
+                "David Beckham"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the FC Schalke 04 founded?",
+            "correct_answer": "1904",
+            "incorrect_answers": [
+                "1909",
+                "2008",
+                "1999"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who did Steven Gerrard win the Champions League with?",
+            "correct_answer": "Liverpool",
+            "incorrect_answers": [
+                "Real Madrid",
+                "Chelsea",
+                "Man City"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+            "correct_answer": "Brooklyn",
+            "incorrect_answers": [
+                "Las Vegas",
+                "Boston",
+                "Seattle"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "There are a total of 20 races in Formula One 2016 season.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country will host the 2022 FIFA World Cup?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "USA",
+                "Japan",
+                "Switzerland"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+            "correct_answer": "Lewis Hamilton",
+            "incorrect_answers": [
+                "Sebastian Vettel",
+                "Nico Rosberg",
+                "Max Verstappen"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+            "correct_answer": "61",
+            "incorrect_answers": [
+                "65",
+                "63",
+                "67"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+            "correct_answer": "Toronto Marlies",
+            "incorrect_answers": [
+                "Toronto Rock",
+                "Toronto Argonauts",
+                "Toronto Wolfpack"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Mazda 787B won the 24 Hours of Le Mans in what year?",
+            "correct_answer": "1991",
+            "incorrect_answers": [
+                "1990",
+                "2000",
+                "1987"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which NBA player has the most games played over the course of their career?",
+            "correct_answer": "Robert Parish",
+            "incorrect_answers": [
+                "Kareem Abdul-Jabbar",
+                "Kevin Garnett",
+                "Kobe Bryant"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which basketball team has attended the most NBA grand finals?",
+            "correct_answer": "Los Angeles Lakers",
+            "incorrect_answers": [
+                "Boston Celtics",
+                "Philadelphia 76ers",
+                "Golden State Warriors"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+            "correct_answer": "Tunisia",
+            "incorrect_answers": [
+                "United States of America",
+                "Italy",
+                "Netherlands"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the 2018 Monaco Grand Prix?",
+            "correct_answer": "Daniel Ricciardo",
+            "incorrect_answers": [
+                "Sebastian Vettel",
+                "Kimi Raikkonen",
+                "Lewis Hamilton"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+            "correct_answer": "Hull City",
+            "incorrect_answers": [
+                "Cardiff City",
+                "Bristol City",
+                "Manchester City"
+            ]
+        }
+    ]
+}

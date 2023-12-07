@@ -1,0 +1,19 @@
+Mehul
+255,209,0
+points:
+	entertainment:0
+	leisure:0
+	history:1400
+	geography:2800
+	brain-teasers:11600
+	science & nature:200
+	arts & literature:0
+possiblePoints:
+	history:600
+	science & nature:200
+	arts & literature:3200
+	brain-teasers:5300
+questionsCorrect:
+questionsSeen:
+gamesWon:0
+gamesPlayed:1

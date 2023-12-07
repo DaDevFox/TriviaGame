@@ -1,0 +1,20 @@
+Daddy
+255,209,0
+points:
+	entertainment:400
+	leisure:3000
+	history:600
+	geography:1000
+	sports:800
+	brain-teasers:9400
+	science & nature:200
+	arts & literature:0
+possiblePoints:
+	history:800
+	science & nature:200
+	arts & literature:3000
+	brain-teasers:5700
+questionsCorrect:
+questionsSeen:
+gamesWon:0
+gamesPlayed:1

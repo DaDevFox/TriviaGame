@@ -1,0 +1,601 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following bones is not in the leg?",
+            "correct_answer": "Radius",
+            "incorrect_answers": [
+                "Patella",
+                "Tibia",
+                "Fibula "
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Along with Oxygen, which element is primarily responsible for the sky appearing blue?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": [
+                "Helium",
+                "Carbon",
+                "Hydrogen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following liquids is least viscous? Assume temperature is 25&deg;C.",
+            "correct_answer": "Acetone",
+            "incorrect_answers": [
+                "Water",
+                "Mercury",
+                "Benzene"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which is the chemical name of H2O?",
+            "correct_answer": "Dihydrogen Monoxide",
+            "incorrect_answers": [
+                "Ammonium chloride",
+                "Anhydrous Sodium Carbonate",
+                "Manganese dioxide"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What name is given to all baby marsupials?",
+            "correct_answer": "Joey",
+            "incorrect_answers": [
+                "Calf",
+                "Pup",
+                "Cub"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+            "correct_answer": "Uranus",
+            "incorrect_answers": [
+                "Jupiter",
+                "Venus",
+                "Neptune"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The humerus, paired radius, and ulna come together to form what joint?",
+            "correct_answer": "Elbow",
+            "incorrect_answers": [
+                "Knee",
+                "Sholder",
+                "Ankle"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+            "correct_answer": "Carbon",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Oxygen",
+                "Hydrogen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the elemental symbol for mercury?",
+            "correct_answer": "Hg",
+            "incorrect_answers": [
+                "Me",
+                "Mc",
+                "Hy"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What common name is given to the medial condition, tibial stress syndrome (MTSS)?",
+            "correct_answer": "Shin Splints",
+            "incorrect_answers": [
+                "Tennis Elbow",
+                "Carpal Tunnel",
+                "Housemaid&#039;s Knee"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+            "correct_answer": "Nitrogen",
+            "incorrect_answers": [
+                "Oxygen",
+                "Argon",
+                "Carbon Dioxide"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many planets make up our Solar System?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "6"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The &quot;Tibia&quot; is found in which part of the body?",
+            "correct_answer": "Leg",
+            "incorrect_answers": [
+                "Arm",
+                "Hand",
+                "Head"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the scientific name of the knee cap?",
+            "correct_answer": "Patella",
+            "incorrect_answers": [
+                "Femur",
+                "Foramen Magnum",
+                "Scapula"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "If you planted the seeds of Quercus robur what would grow?",
+            "correct_answer": "Trees",
+            "incorrect_answers": [
+                "Flowers",
+                "Vegtables",
+                "Grains"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+            "correct_answer": "Brain",
+            "incorrect_answers": [
+                "Lungs",
+                "Skin",
+                "Heart"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+            "correct_answer": "Sputnik 1",
+            "incorrect_answers": [
+                "Soyuz 7K-OK",
+                "Zenit-2",
+                "Voskhod 3KV"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the chemical formula for ammonia?",
+            "correct_answer": "NH3",
+            "incorrect_answers": [
+                "CO2",
+                "NO3",
+                "CH4"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these chemical compounds is NOT found in gastric acid?",
+            "correct_answer": "Sulfuric acid",
+            "incorrect_answers": [
+                "Hydrochloric acid",
+                "Potassium chloride",
+                "Sodium chloride"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which is not a type of neuron?",
+            "correct_answer": "Perceptual Neuron",
+            "incorrect_answers": [
+                "Sensory Neuron",
+                "Motor Neuron",
+                "Interneuron"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which moon is the only satellite in our solar system to possess a dense atmosphere?",
+            "correct_answer": "Titan",
+            "incorrect_answers": [
+                "Europa",
+                "Miranda",
+                "Callisto"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which is the most abundant element in the universe?",
+            "correct_answer": "Hydrogen",
+            "incorrect_answers": [
+                "Helium",
+                "Lithium",
+                "Oxygen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the molecular formula of Ozone?",
+            "correct_answer": "O3",
+            "incorrect_answers": [
+                "C6H2O6",
+                "N2O",
+                "SO4"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which element has the highest melting point?",
+            "correct_answer": "Carbon",
+            "incorrect_answers": [
+                "Tungsten",
+                "Platinum",
+                "Osmium"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "At what temperature does water boil?",
+            "correct_answer": "212&deg;F",
+            "incorrect_answers": [
+                "200&deg;F",
+                "181&deg;F",
+                "178&deg;F"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who made the discovery of X-rays?",
+            "correct_answer": "Wilhelm Conrad R&ouml;ntgen",
+            "incorrect_answers": [
+                "Thomas Alva Edison",
+                "James Watt",
+                "Albert Einstein"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Botanically speaking, which of these fruits is NOT a berry?",
+            "correct_answer": "Strawberry",
+            "incorrect_answers": [
+                "Blueberry",
+                "Banana",
+                "Concord Grape"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the unit of electrical resistance?",
+            "correct_answer": "Ohm",
+            "incorrect_answers": [
+                "Mho",
+                "Tesla",
+                "Joule"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Muscle fiber is constructed of bundles small long organelles called what?",
+            "correct_answer": "Myofibrils",
+            "incorrect_answers": [
+                "Epimysium",
+                "Myofiaments",
+                "Myocardium"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The Sun consists of mostly which two elements?",
+            "correct_answer": "Hydrogen &amp; Helium",
+            "incorrect_answers": [
+                "Hydrogen &amp; Nitrogen",
+                "Carbon &amp; Nitrogen",
+                "Carbon &amp; Helium"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Psychology is the science of behavior and mind.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How long is a light-year?",
+            "correct_answer": "9.461 Trillion Kilometres",
+            "incorrect_answers": [
+                "1 AU",
+                "105.40 Earth-years",
+                "501.2 Million Miles"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Coulrophobia is the irrational fear of what?",
+            "correct_answer": "Clowns",
+            "incorrect_answers": [
+                "Cemeteries",
+                "Needles",
+                "Tunnels"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Western Lowland Gorilla is scientifically know as?",
+            "correct_answer": "Gorilla Gorilla Gorilla",
+            "incorrect_answers": [
+                "Gorilla Gorilla Diehli",
+                "Gorilla Beringei Graueri",
+                "Gorilla Beringei Beringei"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "On the periodic table of elements, what is the symbol for Tin?",
+            "correct_answer": "Sn",
+            "incorrect_answers": [
+                "Ti",
+                "Ni",
+                "Na"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which noble gas has the lowest atomic number?",
+            "correct_answer": "Helium",
+            "incorrect_answers": [
+                "Neon",
+                "Argon",
+                "Krypton"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which scientific unit is named after an Italian nobleman?",
+            "correct_answer": "Volt",
+            "incorrect_answers": [
+                "Pascal",
+                "Ohm",
+                "Hertz"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many protons are in an oxygen atom?",
+            "correct_answer": "Eight",
+            "incorrect_answers": [
+                "Four",
+                "Two",
+                "Six"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?",
+            "correct_answer": "Gauss&#039;s Law",
+            "incorrect_answers": [
+                "Faraday&#039;s Law",
+                "Ampere&#039;s Law",
+                "Biot-Savart Law"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the official name of the star located closest to the North Celestial Pole?",
+            "correct_answer": "Polaris",
+            "incorrect_answers": [
+                "Eridanus",
+                "Gamma Cephei",
+                "Iota Cephei"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Where did the Great Storm of 1987 make landfall at, first?",
+            "correct_answer": "Cornwall",
+            "incorrect_answers": [
+                "Surrey",
+                "Wales",
+                "The Midlands"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which color cannot be produced in Roses, even through genetic alteration?",
+            "correct_answer": "Blue",
+            "incorrect_answers": [
+                "Black",
+                "Orange",
+                "Brown"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "&quot;Tachycardia&quot; or &quot;Tachyarrhythmia&quot; refers to a resting heart-rate near or over 100 BPM.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these choices is not one of the phases of mitosis?",
+            "correct_answer": "Diplophase",
+            "incorrect_answers": [
+                "Metaphase",
+                "Anaphase",
+                "Telophase"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Dry ice is the solid form of what substance?",
+            "correct_answer": "Carbon dioxide",
+            "incorrect_answers": [
+                "Nitrogen",
+                "Ammonia",
+                "Oxygen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following is a major muscle of the back?",
+            "correct_answer": "Trapezius",
+            "incorrect_answers": [
+                "Trapezium",
+                "Trapezoid",
+                "Triquetrum"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following is considered classical conditioning?",
+            "correct_answer": "Pavlov&#039;s dog experiments",
+            "incorrect_answers": [
+                "Skinner box experiment",
+                "Schr&ouml;dinger&#039;s cat experiment",
+                "Harlow&rsquo;s monkey experiments"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many types of quarks are there in the standard model of physics?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Scoville scale, what is the hottest chemical?",
+            "correct_answer": "Resiniferatoxin",
+            "incorrect_answers": [
+                "Capsaicin",
+                "Dihydrocapsaicin",
+                "Tinyatoxin"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When the Falcon Heavy was launched on it&#039;s test flight, what was the only part of the operation that failed?",
+            "correct_answer": "Center Core Landing",
+            "incorrect_answers": [
+                "Side Booster Landing",
+                "Deployment of Starman",
+                "Ignition and Liftoff"
+            ]
+        }
+    ]
+}

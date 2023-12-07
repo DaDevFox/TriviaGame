@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 483bcb23120504a478f79b1089550e23
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fontin Sans CR
+  fontNames:
+  - Fontin Sans CR
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 60bfbef20c2ad00478ff23e27ec47aee, type: 3}
+  - {fileID: 12800000, guid: 923b5fe413e98e448b8ea8e9bdf8b23e, type: 3}
+  - {fileID: 12800000, guid: 803d80871c72dc14abd2f45a5f512d0a, type: 3}
+  - {fileID: 12800000, guid: 7659fe8b560a05d49890bcd05bc588dc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

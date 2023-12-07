@@ -1,0 +1,73 @@
+
+#/Color wordwises:Interpret the following wordwise:\n%s
+
+#Q Sun <color=red>Sails</color> Set (Bing Crosby 1935 hit)
+^ Red Sails in the Sunset
+
+#/end
+
+#Q LIWAITINGNE
+^ Waiting in line
+
+
+#Q LIMSITTINGBO
+^ Sitting in limbo
+  asdf
+  asdf
+
+#Q VASEARCHINGIN
+^ Searching in vain
+  asdf
+  asdf
+
+#Q GRONEFOOTAVE
+^ One foot in the grave
+
+#Q PAPIGOKE
+^ A pig in a poke
+
+#Q YOUJUSTME
+^ Just between you and me
+
+#Q OHOLENE
+^ Hole in one
+
+#Q LOFALLINGVE
+^ Falling in love
+
+#Q THEREADLINES
+^ Reading between the lines
+
+#Q  N
+i
+a
+g
+a
+r
+a
+^ Niagara Falls 
+
+#Q Ppicnicark
+^  Picnic in the park
+
+#Q Eggs
+Easy
+^ Eggs over easy 
+
+#Q Dribble Dribble
+^ Double Dribble 
+
+#Q _dea
+^ no idea 
+
+#Q ______
+reading
+_______
+^ Reading betwween the lines
+
+#Q ci ii
+^ See eye to eye
+
+#Q Man
+bored
+^ Man overboard

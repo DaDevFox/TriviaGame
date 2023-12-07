@@ -1,0 +1,63 @@
+brain-teasers
+	Riddles & Puzzles
+	adsf
+geography
+	Geography & Culture
+	'Geography & Culture' (above) is the title of this category 
+world
+	World Culture
+	Cultures around the world and their customs, traditions, society, and philosophies. 
+religion-faith
+	Religion & Faith
+	Religions and Faiths of the world
+history
+	History
+	'History' (above) is the title of this category
+science & nature
+	Science & Nature
+	'Science & Nature' (above) is the title of this category
+science-technology
+	Science & Technology
+	asdf
+animals
+	Animals & Biology
+	asdf
+entertainment
+	Entertainment
+	'Entertainment' (above) is the title of this category
+television
+	Television
+	asdf
+video-games
+	Video Games
+	asdf
+music
+	Music
+	asdf
+movies
+	Movies
+	asdf
+celebrities
+	Celebrities
+	asdf
+arts & literature
+	Arts & Literature
+	'Arts & Literature' (above) is the title of this category
+humanities
+	Humanities
+	asdf
+literature
+	Literature
+	asdf
+sports
+	Sports
+	'Sports' (above) is the title of this category
+leisure
+	Leisure
+	'Leisure' (above) is the title of this category
+hobbies
+	Hobbies & Food
+	sasdf
+wordwise
+	Wordwise Puzzles
+	asdfasdf
