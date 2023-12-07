@@ -1,0 +1,32 @@
+blacklist:
+	newest
+mixed:
+	rated
+	general
+special:
+	brain-teasers
+	wordwise
+	for-kids
+	people
+subcategories:
+geography
+	world
+	religion-faith
+history
+	history
+science & nature
+	science-technology
+	animals
+entertainment
+	television
+	video-games
+	music
+	movies
+	celebrities
+arts & literature
+	humanities
+	literature
+sports
+	sports
+leisure
+	hobbies

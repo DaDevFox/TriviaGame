@@ -1,0 +1,595 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of &quot;Team Fortress 2&quot; update, in which it became Free-to-play?",
+            "correct_answer": "&Uuml;ber Update",
+            "incorrect_answers": [
+                "Pyromania Update",
+                "Mann-Conomy Update",
+                "Engineer Update"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "When was the first Call of Duty title released?",
+            "correct_answer": "October 29, 2003",
+            "incorrect_answers": [
+                "December 1, 2003",
+                "November 14, 2002",
+                "July 18, 2004"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?",
+            "correct_answer": "Rahm Kota",
+            "incorrect_answers": [
+                "Ahsoka Tano",
+                "Kazdan Paratus",
+                "Kento Marek"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The Indie Game Development Studio Cing, developers of Hotel Dusk and Last Window, went bankrupt on March 1st, 2010.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which franchise does the creature &quot;Slowpoke&quot; originate from?",
+            "correct_answer": "Pokemon",
+            "incorrect_answers": [
+                "Dragon Ball",
+                "Sonic The Hedgehog",
+                "Yugioh"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the protagonist in the game &quot;The Walking Dead: Season One&quot;?",
+            "correct_answer": "Lee Everett",
+            "incorrect_answers": [
+                "Clementine",
+                "Kenny",
+                "Rick Grimes"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the main healing item in Dark Souls?",
+            "correct_answer": "Estus Flask",
+            "incorrect_answers": [
+                "Health Potion",
+                "Orange Juice",
+                "Ashen Flask"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who made Garry&#039;s Mod?",
+            "correct_answer": "Garry Newman",
+            "incorrect_answers": [
+                "Randy Newman",
+                "Facepunch Studios",
+                "Gabe Newell"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Excluding their instructor, how many members of Class VII are there in the game &quot;Legend of Heroes: Trails of Cold Steel&quot;?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "6",
+                "10",
+                "3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
+            "correct_answer": "The Zin Empire",
+            "incorrect_answers": [
+                "The Brotherhood",
+                "The Ronin",
+                "The Sons of Samedi"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which CS:GO eSports team won the major event ESL One Cologne 2016?",
+            "correct_answer": "SK Gaming",
+            "incorrect_answers": [
+                "Team Liquid",
+                "Fnatic",
+                "Virtus.pro"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In most FPS video games such as Counter-Strike, shooting which part of the body does the highest damage?",
+            "correct_answer": "Head",
+            "incorrect_answers": [
+                "Arm",
+                "Leg",
+                "Chest"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Tetris is the #1 best-selling video game of all-time.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game &quot;Cave Story,&quot; what is the character Balrog&#039;s catchphrase?",
+            "correct_answer": "Huzzah!",
+            "incorrect_answers": [
+                "Yes!",
+                "Whoa there!",
+                "Nyeh heh heh!"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which game was the first time Mario was voiced by Charles Martinet?",
+            "correct_answer": "Mario&#039;s Game Gallery",
+            "incorrect_answers": [
+                "Super Mario 64",
+                "Mario Tennis",
+                "Dr. Mario 64"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?",
+            "correct_answer": "Policenauts",
+            "incorrect_answers": [
+                "Gradius",
+                "Contra",
+                "Castlevania: Symphony of the Night"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which souls game was not directed by Hidetaka Miyazaki?",
+            "correct_answer": "Dark Souls 2",
+            "incorrect_answers": [
+                "Demon Souls",
+                "Dark Souls",
+                "Dark Souls 3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is NOT the name of a team leader in Pok&eacute;mon GO?",
+            "correct_answer": "Leif",
+            "incorrect_answers": [
+                "Blanche",
+                "Spark",
+                "Candela"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which company did Bethesda purchase the Fallout Series from?",
+            "correct_answer": "Interplay Entertainment ",
+            "incorrect_answers": [
+                "Capcom",
+                "Blizzard Entertainment",
+                "Nintendo"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The protagonist in the game &quot;Cave Story&quot; is named",
+            "correct_answer": "Quote",
+            "incorrect_answers": [
+                "Kazuma",
+                "Curly",
+                "Arthur"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Halo 2, how many rounds does the M6C hold in a single magazine?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "6",
+                "36",
+                "18"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Super Mario Bros., who informs Mario that the princess is in another castle?",
+            "correct_answer": "Toad",
+            "incorrect_answers": [
+                "Luigi",
+                "Yoshi",
+                "Bowser"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which franchise had a special event hosted in the popular MMORPG Final Fantasy XIV: A Realm Reborn?",
+            "correct_answer": "Yo-kai Watch",
+            "incorrect_answers": [
+                "Pok&eacute;mon",
+                "Yu-gi-oh",
+                "Buddyfight"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following Elite Four members from the 6th Generation of Pok&eacute;mon was a member of Team Flare?",
+            "correct_answer": "Malva",
+            "incorrect_answers": [
+                "Siebold",
+                "Wikstrom",
+                "Drasna"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Mass Effect trilogy, who is the main protagonist?",
+            "correct_answer": "Shepard",
+            "incorrect_answers": [
+                "Mordin",
+                "Garrus",
+                "Thane"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The Konami Code is known as Up, Up, Down, Down, Left, Right, Right, Left, B, A, Start.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which year did the first Monster Hunter game get released?",
+            "correct_answer": "2004",
+            "incorrect_answers": [
+                "2006",
+                "2005",
+                "2002"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What minimum level in the Defence skill is needed to equip Dragon Armour in the MMO RuneScape?",
+            "correct_answer": "60",
+            "incorrect_answers": [
+                "65",
+                "55",
+                "70"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
+            "correct_answer": "J.K. Simmons",
+            "incorrect_answers": [
+                "Nolan North",
+                "John Patrick Lowrie",
+                "Christopher Lloyd"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which town was Seamus &quot;Sledge&quot; Cowden from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+            "correct_answer": "John O&#039;Groats",
+            "incorrect_answers": [
+                "Brawl",
+                "Kearvaig",
+                "Talmine"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which country was Eliza &quot;Ash&quot; Cohen from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; born in?",
+            "correct_answer": "Israel",
+            "incorrect_answers": [
+                "United States of America",
+                "Mexico",
+                "Canada"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In Portal, the Companion Cube&#039;s ARE sentient.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+            "correct_answer": "By clearing every 7th episode",
+            "incorrect_answers": [
+                "By obtaining 70 Shines",
+                "By clearing every episode involving a &quot;Secret&quot;",
+                "By unlocking every nozzle F.L.U.D.D can use"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Toby Fox&#039;s &quot;Megalovania&quot; was first used where?",
+            "correct_answer": "Radiation&#039;s Earthbound Halloween Hack",
+            "incorrect_answers": [
+                "Homestuck: [S] Wake",
+                "Undertale",
+                "Mother: Cognitive Dissonance"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the &quot;Halo&quot; series, what is the name of the race of aliens humans refer to as &quot;Grunts&quot;?",
+            "correct_answer": "Unggoy",
+            "incorrect_answers": [
+                "Huragok",
+                "Sangheili",
+                "Yanme&#039;e"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which ones of these Mario Kart games was made for the Gameboy Advance?",
+            "correct_answer": "Mario Kart: Super Circuit",
+            "incorrect_answers": [
+                "Mario Kart: Double Dash",
+                "Mario Kart 64",
+                "Super Mario Kart"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Moon&quot;, there is a secondary called the QED. What does QED stand for?",
+            "correct_answer": "Quantum Entanglement Device",
+            "incorrect_answers": [
+                "Quad Ectoplasmic Driver",
+                "Question Every Dog",
+                "Quality Edward Device"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: World At War&quot;, the first appearance of the &quot;PPSH-41&quot; in &quot;Zombies&quot; was in the map &quot;Der Riese&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the boss round featured in the &quot;Call Of Duty: Zombies&quot; map &quot;Five&quot;?",
+            "correct_answer": "The Pentagon Thief",
+            "incorrect_answers": [
+                "Hellhounds",
+                "Jumping Jacks",
+                "Napalm Zombie"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;PAYDAY 2&quot;, what weapon has the highest base weapon damage on a per-shot basis?",
+            "correct_answer": "HRL-7",
+            "incorrect_answers": [
+                "Heavy Crossbow",
+                "Thanatos .50 cal",
+                "Broomstick Pistol"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What former MOBA, created by Waystone Games and published by EA, was shut down in 2014?",
+            "correct_answer": "Dawngate",
+            "incorrect_answers": [
+                "Strife",
+                "League of Legends",
+                "Heroes of Newerth"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these characters won the Super Smash Bros. Fighter Ballot in 2015?",
+            "correct_answer": "Bayonetta",
+            "incorrect_answers": [
+                "Cloud",
+                "Ryu",
+                "Megaman"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which gaming series includes &quot;The Diabolical Box&quot; and &quot;The Curious Village&quot;?",
+            "correct_answer": "Professor Layton",
+            "incorrect_answers": [
+                "Persona",
+                "Etrian Odyssey",
+                "Sam &amp; Max"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the City in Saints Row The Third?",
+            "correct_answer": "Steelport",
+            "incorrect_answers": [
+                "Stilwater",
+                "Carcer",
+                "Liberty"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Pok&eacute;mon can learn the move &quot;Secret Power&quot; by leveling up?",
+            "correct_answer": "Audino",
+            "incorrect_answers": [
+                "Type:Null",
+                "Arceus",
+                "Silvally"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;PUBATTLEGROUNDS&quot; which ammo type does the M24 use?",
+            "correct_answer": "7.62mm",
+            "incorrect_answers": [
+                "5.56mm",
+                "9mm",
+                ".300 Magnum"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is not a character in the video game Doki Doki Literature Club?",
+            "correct_answer": "Nico",
+            "incorrect_answers": [
+                "Monika",
+                "Natsuki",
+                "Sayori"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which country is featured in Ace Combat 5: The Unsung War?",
+            "correct_answer": "Osea",
+            "incorrect_answers": [
+                "Aurelia",
+                "Australia",
+                "Japan"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the character you play as in Yume Nikki?",
+            "correct_answer": "Madotsuki",
+            "incorrect_answers": [
+                "Masada",
+                "Uboa",
+                "Poniko"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which unlockable character in Super Smash Bros. For Wii U and 3DS does not have to be fought to be unlocked?",
+            "correct_answer": "Mii Fighters",
+            "incorrect_answers": [
+                "Ness",
+                "R.O.B.",
+                "Mewtwo"
+            ]
+        }
+    ]
+}

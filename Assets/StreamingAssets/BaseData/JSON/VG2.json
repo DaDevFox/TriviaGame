@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The name of the main character of the video game &quot;The Legend of Zelda&quot;, is Zelda.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many Star Spirits do you rescue in the Nintendo 64 video game &quot;Paper Mario&quot;?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "5",
+                "10",
+                "12"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "Unturned originally started as a Roblox game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Undertale&quot;, how many main endings are there?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "5",
+                "13"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the main character in &quot;The Stanley Parable&quot;?",
+            "correct_answer": "Stanley",
+            "incorrect_answers": [
+                "The Adventure Line",
+                "The Narrator",
+                "The Boss"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Clash Royale&quot; what is Arena 4 called?",
+            "correct_answer": "P.E.K.K.A&#039;s Playhouse",
+            "incorrect_answers": [
+                "Barbarian Bowl",
+                "Spell Valley",
+                "Royal Arena"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which order do you need to hit some Deku Scrubs to open the first boss door in &quot;Ocarina of Time&quot;?",
+            "correct_answer": "2, 3, 1",
+            "incorrect_answers": [
+                "1, 2, 3",
+                "1, 3, 2",
+                "2, 1, 3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many classes are there in Team Fortress 2?",
+            "correct_answer": "9",
+            "incorrect_answers": [
+                "10",
+                "8",
+                "7"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "The first &quot;Metal Gear&quot; game was released for the PlayStation 1.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the machine that fails and essentially dooms mankind in the beginning of the first Half-Life game?",
+            "correct_answer": "Anti-mass spectrometer",
+            "incorrect_answers": [
+                "Oscillation generator",
+                "Dark fusion reactor",
+                "Dark fusion resonator"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Mario spin-off game did Waluigi make his debut?",
+            "correct_answer": "Mario Tennis",
+            "incorrect_answers": [
+                "Mario Party 3",
+                "Mario Kart: Double Dash!!",
+                "Mario Golf: Toadstool Tour"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Deus Ex (2000) does not feature the World Trade Center because it was destroyed by terrorist attacks according to the game&#039;s plot.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the protagonist in Dead Rising (2006)?",
+            "correct_answer": "Frank West",
+            "incorrect_answers": [
+                "Chuck Greene",
+                "John North",
+                "Jason Grey"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which company made the Japanese RPG &quot;Dragon Quest&quot;?",
+            "correct_answer": "Square Enix",
+            "incorrect_answers": [
+                "Capcom",
+                "Konami",
+                "Blizzard"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the original name of Crash Bandicoot?",
+            "correct_answer": "Willie Wombat",
+            "incorrect_answers": [
+                "Coco Bandicoot",
+                "Marvelous Mole",
+                "Wally Wombat"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the leader of Team Mystic in Pok&eacute;mon Go?",
+            "correct_answer": "Blanche",
+            "incorrect_answers": [
+                "Candela",
+                "Spark",
+                "Willow"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In PROTOTYPE 2, which of the following abilities\/weapons is NOT obtained by an Evolved?",
+            "correct_answer": "Tendrils",
+            "incorrect_answers": [
+                "Blade",
+                "Bio-Bomb",
+                "Pack Leader"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In the game &quot;Subnautica&quot;, a &quot;Cave Crawler&quot; will attack you.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Sonic the Hedgehog universe, Tails&#039; real name is Miles Prower.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Terraria, you can craft the Cell Phone pre-hardmode.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In what year was the game &quot;FTL: Faster Than Light&quot; released?",
+            "correct_answer": "2012",
+            "incorrect_answers": [
+                "2014",
+                "2013",
+                "2011"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What video game genre were the original Warcraft games?",
+            "correct_answer": "RTS (Real Time Strategy)",
+            "incorrect_answers": [
+                "RPG (Role Playing Game)",
+                "TBS (Turn Based Strategy)",
+                "MMO (Massively Multiplayer Online)"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What element does the Zinogre use in Monster Hunter?",
+            "correct_answer": "Thunder",
+            "incorrect_answers": [
+                "Ice",
+                "Fire",
+                "Water"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which actor provided the voice for the main character&#039;s father in Fallout 3?",
+            "correct_answer": "Liam Neeson",
+            "incorrect_answers": [
+                "Kiefer Sutherland",
+                "Brendan Gleeson",
+                "Robbie Coltrane"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these operators from &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; has the ability to damage reinforced walls?",
+            "correct_answer": "Jordan &quot;Thermite&quot; Trace",
+            "incorrect_answers": [
+                "Eliza &quot;Ash&quot; Cohen",
+                "Seamus &quot;Sledge&quot; Cowden",
+                "Dominic &quot;Bandit&quot; Brunsmeier"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the #1 selling game on Steam by revenue in 2016?",
+            "correct_answer": "Sid Meier&#039;s Civilization VI",
+            "incorrect_answers": [
+                "Grand Theft Auto V",
+                "Counter Strike: Global Offensive",
+                "Dark Souls III"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the top-down online RPG &quot;Space Station 13&quot; released?",
+            "correct_answer": "2003",
+            "incorrect_answers": [
+                "2000",
+                "2010",
+                "2006"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which location does Dark Sun Gwyndolin reside in &quot;Dark Souls&quot;?",
+            "correct_answer": "Anor Londo",
+            "incorrect_answers": [
+                "Firelink Shrine",
+                "Blighttown",
+                "Kiln of the first flame"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How much did the indie game &quot;Cave Story&quot; cost when it was first released in 2004?",
+            "correct_answer": "$0 USD",
+            "incorrect_answers": [
+                "$5 USD",
+                "$10 USD",
+                "$15 USD"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;Ace Attorney&quot; series, what is the relationship between Apollo Justice and Trucy Wright?",
+            "correct_answer": "They&#039;re half-siblings",
+            "incorrect_answers": [
+                "They&#039;re co-workers",
+                "They&#039;re friends",
+                "They&#039;re both attorneys"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which map features the &quot;Fly Trap&quot; easter egg?",
+            "correct_answer": "Der Riese",
+            "incorrect_answers": [
+                "Tranzit",
+                "Call Of The Dead",
+                "Shi No Numa"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the game developer who created &quot;Call Of Duty: Zombies&quot;?",
+            "correct_answer": "Treyarch",
+            "incorrect_answers": [
+                "Sledgehammer Games",
+                "Infinity Ward",
+                "Naughty Dog"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In which mall does &quot;Dead Rising&quot; take place?",
+            "correct_answer": "Willamette Parkview Mall",
+            "incorrect_answers": [
+                "Liberty Mall",
+                "Twin Pines Mall",
+                "Central Square Shopping Center"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call of Duty: Zombies&quot;, what group does Doctor Maxis work for?",
+            "correct_answer": "Group 935",
+            "incorrect_answers": [
+                "Group Reanimate",
+                "Group Rezurrection",
+                "Division 9"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "&quot;Return to Castle Wolfenstein&quot; was the only game of the Wolfenstein series where you don&#039;t play as William &quot;B.J.&quot; Blazkowicz.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many controllers could a Nintendo GameCube have plugged in at one time?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "8",
+                "6",
+                "2"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The walls of the Goldenrod City Gym in &quot;Pok&eacute;mon Gold and Silver&quot; are arranged in the shape of which Pok&eacute;mon?",
+            "correct_answer": "Clefairy",
+            "incorrect_answers": [
+                "Bulbasaur",
+                "Pikachu",
+                "Pidgey"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What are Sans and Papyrus named after in &quot;Undertale&quot;?",
+            "correct_answer": "Fonts",
+            "incorrect_answers": [
+                "Plants",
+                "Companies",
+                "Ancient writing paper"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Need for Speed III: Hot Pursuit&quot;, what is the name of the fictional car?",
+            "correct_answer": "El Ni&ntilde;o",
+            "incorrect_answers": [
+                "R&aacute;pido",
+                "&Aacute;gil",
+                "La Ni&ntilde;a"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which one of these is NOT an official map in Counter-Strike: Global Offensive?",
+            "correct_answer": "de_season",
+            "incorrect_answers": [
+                "de_sugarcane",
+                "de_canals",
+                "de_militia"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What character is NOT apart of the Grand Theft Auto series?",
+            "correct_answer": "Michael Cardenas",
+            "incorrect_answers": [
+                "Packie McReary",
+                "Tommy Vercetti",
+                "Lester Crest"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V&rsquo;s story mode?",
+            "correct_answer": "Tommy Vercetti",
+            "incorrect_answers": [
+                "Michael de Santa",
+                "Franklin Clinton",
+                "Trevor Phillips"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what class is known for having the highest possible defense?",
+            "correct_answer": "The Knight",
+            "incorrect_answers": [
+                "The Wizard",
+                "The Archer",
+                "The Warrior"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "During pre-production of &quot;Super Mario Bros.&quot;, Mario originally was meant to shoot bullets.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the talking cat in Persona 5?",
+            "correct_answer": "Morgana",
+            "incorrect_answers": [
+                "Teddie",
+                "Marie",
+                "Ryuji"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": " Which of these champions from the MOBA &#039;League of Legends&#039; is NOT a Yordle?",
+            "correct_answer": "Annie",
+            "incorrect_answers": [
+                "Veigar",
+                "Tristana",
+                "Lulu"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the survival horror game, &quot;Cry of Fear,&quot; what was the name of Simon&#039;s close friend\/potential love interest?",
+            "correct_answer": "Sophie",
+            "incorrect_answers": [
+                "Olivia",
+                "Jessica",
+                "Alice"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the game Enter the Gungeon, which one of these is not a playable character?",
+            "correct_answer": "The Wizard",
+            "incorrect_answers": [
+                "The Bullet",
+                "The Robot",
+                "The Cultist"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "In The Witcher 3, the Zoltan Chivay Gwent card can be found under the Hanged Man&#039;s Tree.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many permanent companions are there in the base game version of Fallout: New Vegas?",
+            "correct_answer": "8",
+            "incorrect_answers": [
+                "7",
+                "9",
+                "6"
+            ]
+        }
+    ]
+}

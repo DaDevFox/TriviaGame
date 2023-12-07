@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who&#039;s the creator of Geometry Dash?",
+            "correct_answer": "Robert Topala",
+            "incorrect_answers": [
+                "Scott Cawthon",
+                "Adam Engels",
+                "Andrew Spinks"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "The retail disc of Tony Hawk&#039;s Pro Skater 5 only comes with the tutorial.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the game &quot;Galaga&quot; was a sequel to?",
+            "correct_answer": "Galaxian",
+            "incorrect_answers": [
+                "Galactica",
+                "Space Invaders",
+                "Galactic Wars"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?",
+            "correct_answer": "Did I ever tell you the definition of Insanity?",
+            "incorrect_answers": [
+                "Have I failed to entertain you?",
+                "You&#039;re my b*tch!",
+                "Maybe your best course...would be to tread lightly."
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the cancelled sequel of Team Fortress?",
+            "correct_answer": "Team Fortress 2: Brotherhood of Arms",
+            "incorrect_answers": [
+                "Team Fortress 2: Desert Mercenaries",
+                "Team Fortress 2: Operation Gear Grinder",
+                "Team Fortress 2: Return to Classic"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the game Half-Life, which enemy is showcased as the final boss?",
+            "correct_answer": "The Nihilanth",
+            "incorrect_answers": [
+                "Dr. Wallace Breen",
+                "G-Man",
+                "The Gonarch"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these video game engines was made by the company Epic Games?",
+            "correct_answer": "Unreal",
+            "incorrect_answers": [
+                "Unity",
+                "Game Maker: Studio",
+                "Cry Engine"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game &quot;Undertale&quot;, who was Mettaton&#039;s creator?",
+            "correct_answer": "Alphys",
+            "incorrect_answers": [
+                "Undyne",
+                "Sans",
+                "Asgore"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these characters in &quot;Undertale&quot; can the player NOT go on a date with?",
+            "correct_answer": "Toriel",
+            "incorrect_answers": [
+                "Papyrus",
+                "Undyne",
+                "Alphys"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The original mascot of the popular Nintendo game, &quot;Splatoon&quot; was going to be...",
+            "correct_answer": "Mario",
+            "incorrect_answers": [
+                "Inklings",
+                "Octolings",
+                "Zelda"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?",
+            "correct_answer": "Steed",
+            "incorrect_answers": [
+                "Mule",
+                "Benson",
+                "Pony"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+            "correct_answer": "Kiefer Sutherland",
+            "incorrect_answers": [
+                "David Hayter",
+                "Norman Reedus",
+                "Hideo Kojima"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The game &quot;Battlefield 1&quot; takes place during World War I.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "&quot;Metal Gear Solid 3: Snake Eater&quot; takes place on Shadow Moses Island.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the fastest speed possible in Trackmania&sup2;: Stadium?",
+            "correct_answer": "1000  km\/h",
+            "incorrect_answers": [
+                "500 km\/h",
+                "320 km\/h",
+                "100 km\/h"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Big the Cat is a playable character in &quot;Sonic Generations&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Kingdom Hearts the Paopu fruit is said to intertwine the destinies for two people forever.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "&quot;Rollercoaster Tycoon&quot; was programmed mostly entirely in...",
+            "correct_answer": "x86 Assembly",
+            "incorrect_answers": [
+                "C++",
+                "C",
+                "ALGOL"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
+            "correct_answer": "Jill",
+            "incorrect_answers": [
+                "Dana",
+                "Alma",
+                "Anna"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In &quot;Sonic Adventure&quot;, you are able to transform into Super Sonic at will after completing the main story.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What two characters from the game Undertale are never in a relationship or not related?",
+            "correct_answer": "Frisk &amp; Chara",
+            "incorrect_answers": [
+                "Sans &amp; Papyrus",
+                "Toriel &amp; Asgore",
+                "Alphys &amp; Undyne"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Terraria, which of the following items does the Martian Saucer mini-boss NOT drop?",
+            "correct_answer": "Drill Containment Unit",
+            "incorrect_answers": [
+                "Anti-Gravity Hook",
+                "Influx Waver",
+                "Cosmic Car Key"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In World of Warcraft lore, who was first to have the title &quot;The Ashbringer&quot;?",
+            "correct_answer": "Alexandros Mograine",
+            "incorrect_answers": [
+                "Tirion Fordring",
+                "Arthas Menethil",
+                "Uther the Lightbringer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following characters were considered for inclusion in Super Smash Bros. Melee?",
+            "correct_answer": "Lucas",
+            "incorrect_answers": [
+                "Mega Man",
+                "Meta Knight",
+                "Diddy Kong"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "TF2: The Medic will be credited for an assist if he heals a Spy that successfully saps a building.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Pokemon generation did the fan-named &quot;Masuda Method&quot; first appear in? ",
+            "correct_answer": "Diamond\/Pearl",
+            "incorrect_answers": [
+                "Ruby\/Sapphire",
+                "Black\/White",
+                "X\/Y"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In what year was Hearthstone released?",
+            "correct_answer": "2014",
+            "incorrect_answers": [
+                "2011",
+                "2013",
+                "2012"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which Kingdom Hearts game featured the cast of &quot;The World Ends With You&quot;?",
+            "correct_answer": "Dream Drop Distance",
+            "incorrect_answers": [
+                "Birth By Sleep",
+                "365\/2 Days",
+                "Re:Chain of Memories"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the name of the game created by Masahiro Sakurai and Satoru Iwata that would eventually evolve into &quot;Super Smash Bros.&quot;?",
+            "correct_answer": "Dragon King: The Fighting Game",
+            "incorrect_answers": [
+                "Nintendo Legends: Fight!",
+                "Martial Arts: King of the Hill",
+                "Aerial Warriors: Supreme Battle"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What CS:GO case contains the Butterfly Knife?",
+            "correct_answer": "Breakout Case",
+            "incorrect_answers": [
+                "Shadow Case",
+                "Vanguard Case",
+                "Esports 2014 Case"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
+            "correct_answer": "Threshold",
+            "incorrect_answers": [
+                "Substance",
+                "Sanghelios",
+                "Te"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+            "correct_answer": "FME-7",
+            "incorrect_answers": [
+                "VRC7",
+                "VRC6",
+                "MMC5"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Without enchantments, which pickaxe in minecraft mines blocks the quickest.",
+            "correct_answer": "Golden ",
+            "incorrect_answers": [
+                "Diamond",
+                "Iron",
+                "Obsidian"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Watch_Dogs 2 is a prequel.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these games was NOT developed by Markus Persson?",
+            "correct_answer": "Dwarf Fortress",
+            "incorrect_answers": [
+                "Minecraft",
+                "Wurm Online",
+                "0x10c"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the main protagonist in Danganronpa 2: Goodbye Despair?",
+            "correct_answer": "Hajime Hinata",
+            "incorrect_answers": [
+                "Nagito Komaeda",
+                "Makoto Naegi",
+                "Junko Enoshima"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In &quot;Earthbound&quot;, how does one enter &quot;Master Belch&#039;s&quot; factory?",
+            "correct_answer": "Wait 3 Minutes",
+            "incorrect_answers": [
+                "Enter the password &quot;Fly Honey&quot;",
+                "Enter the password &quot;Master Belch Rules&quot;",
+                "Enter the password &quot;Mr Saturn Drools&quot;"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Zombies mode of &quot;Call of Duty: Black Ops&quot;, what is the &quot;Pack-A-Punched&quot; version of the &quot;Galil&quot; called?",
+            "correct_answer": "Lamentation",
+            "incorrect_answers": [
+                "Galvanized Atomic Lead Insertion Liquidator",
+                "Gabig",
+                "Predictive Death Wish"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of Samantha Maxis&#039; dog?",
+            "correct_answer": "Fluffy",
+            "incorrect_answers": [
+                "Baxter",
+                "Fido",
+                "Henry"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What animal is featured in &quot;Bloons TD Battles&quot;?",
+            "correct_answer": "Monkeys",
+            "incorrect_answers": [
+                "Alligators",
+                "Pigeons",
+                "Lizards"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In &quot;League of Legends&quot;, there exists four different types of Dragon.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is not a character in the game, &quot;Lethal League&quot;?",
+            "correct_answer": "Rex",
+            "incorrect_answers": [
+                "Switch",
+                "Candyman",
+                "Sonata"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of the 8th installment in the Fire Emblem series?",
+            "correct_answer": "The Sacred Stones",
+            "incorrect_answers": [
+                "Blazing Sword",
+                "Awakening",
+                "Path of Radiance"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which character does the player play as in the video game &quot;Bastion&quot;?",
+            "correct_answer": "The Kid",
+            "incorrect_answers": [
+                "Rucks",
+                "Zulf",
+                "Zia"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In the Season One Championship of &quot;League of Legends&quot;, the highest achievable rank was Diamond.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Kingdom Hearts which of the following people can NOT wield a keyblade?",
+            "correct_answer": "Larxene",
+            "incorrect_answers": [
+                "Xehanort",
+                "Lea",
+                "Mickey"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following Pokemon Types was present in the original games, Red and Blue?",
+            "correct_answer": "Ice",
+            "incorrect_answers": [
+                "Steel",
+                "Dark",
+                "Fairy"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "From where does the Nintendo video game character Mario derive his name?",
+            "correct_answer": "The landlord of the American headquarters",
+            "incorrect_answers": [
+                "Shigeru Miyamoto&#039;s father in law",
+                "Satoru Iwata&#039;s plumber",
+                "The date (Mar 10) that Donkey Kong was released."
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which drive form was added into Kingdom Hearts II Final Mix?",
+            "correct_answer": "Limit Form",
+            "incorrect_answers": [
+                "Valor Form",
+                "Wisdom Form",
+                "Anti Form"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the AK-47&#039;s name in Counter Strike: Source?",
+            "correct_answer": "CV-47",
+            "incorrect_answers": [
+                "AK-74",
+                "AK",
+                "CZ-75"
+            ]
+        }
+    ]
+}

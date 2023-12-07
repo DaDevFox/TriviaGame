@@ -1,0 +1,589 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
+            "correct_answer": "Rad Mobile",
+            "incorrect_answers": [
+                "Sonic The Hedgehog",
+                "Super Mario 64",
+                "Mega Man"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many Chaos Emeralds can you collect in the first Sonic The Hedgehog?",
+            "correct_answer": "Six",
+            "incorrect_answers": [
+                "Seven",
+                "Five",
+                "Eight"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is NOT a terrorist faction in Counter-Strike (2000)?",
+            "correct_answer": "Midwest Militia",
+            "incorrect_answers": [
+                "Phoenix Connection",
+                "Elite Crew",
+                "Guerrilla Warfare"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these games was the earliest known first-person shooter with a known time of publication?",
+            "correct_answer": "Spasim",
+            "incorrect_answers": [
+                "Doom",
+                "Wolfenstein",
+                "Quake"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which country&#039;s version of Half-Life are the HECU Marines replaced with robots?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Japan",
+                "China",
+                "France"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the writer of the game &quot;Half-Life&quot;?",
+            "correct_answer": "Marc Laidlaw",
+            "incorrect_answers": [
+                "Gabe Newell",
+                "Robin Walker",
+                "Chet Faliszek"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In &quot;Super Mario 64&quot;, collecting 100 coins on a level will give you a 1-UP.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Portal 2, the iconic character GLaDOS is turned into:",
+            "correct_answer": "A potato",
+            "incorrect_answers": [
+                "A tomato",
+                "A lemon",
+                "An apple"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Where was the Sniper character in Team Fortress 2 born?",
+            "correct_answer": "New Zealand",
+            "incorrect_answers": [
+                "South Africa",
+                "Antarctica",
+                "Australia"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who composed the soundtrack for the game VVVVVV?",
+            "correct_answer": "Magnus P&aring;lsson",
+            "incorrect_answers": [
+                "Terry Cavanagh",
+                "Danny Baranowsky",
+                "Joel Zimmerman"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Donkey Kong was originally set to be a Popeye arcade game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who voices Max Payne in the 2001 game &quot;Max Payne&quot;?",
+            "correct_answer": "James McCaffrey",
+            "incorrect_answers": [
+                "Sam Lake",
+                "Troy Baker",
+                "Hideo Kojima"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these &quot;Worms&quot; games featured 3D gameplay?",
+            "correct_answer": "Worms 4: Mayhem",
+            "incorrect_answers": [
+                "Worms W.M.D",
+                "Worms Reloaded",
+                "Worms: Open Warfare 2"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Team Fortress 2, which class wields a shotgun?",
+            "correct_answer": "Everyone Listed",
+            "incorrect_answers": [
+                "Heavy",
+                "Soldier",
+                "Engineer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In World of Warcraft lore, Thrall is the original wielder of &quot;Doomhammer&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the creator of the Super Smash Bros. Series?",
+            "correct_answer": "Masahiro Sakurai",
+            "incorrect_answers": [
+                "Reggie Fils-Aim&eacute;",
+                "Bill Trinen",
+                "Hideo Kojima"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In &quot;Super Mario 3D World&quot;, the Double Cherry power-up originated from a developer accidentally making two characters controllable.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The Sniper&#039;s SMG in Team Fortress 2, was originally intended to be the Scout&#039;s primary weapon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the main antagonist of Max Payne 3 (2012)?",
+            "correct_answer": "Victor Branco",
+            "incorrect_answers": [
+                "&Aacute;lvaro Neves",
+                "Armando Becker",
+                "Milo Rego"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Fallout 4&quot; which faction is not present in the game?",
+            "correct_answer": "The Enclave",
+            "incorrect_answers": [
+                "The Minutemen",
+                "The Brotherhood of Steel",
+                "The Institute"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the leader of Team Valor in Pok&eacute;mon Go?",
+            "correct_answer": "Candela",
+            "incorrect_answers": [
+                "Willow",
+                "Blanche",
+                "Spark"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Cook, Serve, Delicious!, which food is NOT included in the game?",
+            "correct_answer": "Pie",
+            "incorrect_answers": [
+                "Shish Kabob",
+                "Hamburger",
+                "Lasagna"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many times do you fight the Imprisoned in The Legend of Zelda: Skyward Sword?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following games in the Anno series introduced the &quot;Eco Balance&quot; gameplay mechanic?",
+            "correct_answer": "Anno 2070",
+            "incorrect_answers": [
+                "Anno 1404",
+                "Anno 2205",
+                " Anno 1701"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Game Development company made No Man&#039;s Sky?",
+            "correct_answer": "Hello Games",
+            "incorrect_answers": [
+                "Dovetail Games",
+                "Valve",
+                "Blizzard Entertainment"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the first Left 4 Dead, you can play as either of these four characters.",
+            "correct_answer": "Francis, Bill, Zoey, and Louis",
+            "incorrect_answers": [
+                "Bender, Andrew, Allison, and Brian",
+                "Coach, Ellis, Nick, and Rochelle",
+                "Harry, Ron, Hermione and Dumbledore"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Hitman: Blood Money, what is the name of the target in the mission &quot;Death of a Showman&quot;?",
+            "correct_answer": "Joseph Clarence",
+            "incorrect_answers": [
+                "The Swing King",
+                "Maynard John",
+                "Manuel Delgado"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many playable characters are there in Super Smash Bros. for Nintendo 3DS and Wii U?",
+            "correct_answer": "58",
+            "incorrect_answers": [
+                "48",
+                "51",
+                "55"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which one of these was not a member of the Fiendish Five in the game Sly Cooper and the Thievius Raccoonus?",
+            "correct_answer": "Dimitri Lousteau",
+            "incorrect_answers": [
+                "Mz. Ruby",
+                "Muggshot",
+                "Clockwerk"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Danganronpa Another Episode: Ultra Despair Girls is set after which Danganronpa game?",
+            "correct_answer": "Danganronpa: Trigger Happy Havoc",
+            "incorrect_answers": [
+                "Danganronpa 2: Goodbye Despair",
+                "Danganronpa V3: Killing Harmony",
+                "Danganronpa 3: The End of Hope&#039;s Peak High School"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the original DOOM (1993) which of the following is NOT a cheat code?",
+            "correct_answer": "IDCLIP",
+            "incorrect_answers": [
+                "IDFA",
+                "IDDQD",
+                "IDSPISPOPD"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In &quot;Starbound&quot;, the track played by the Decorated Music Box is named &quot;Atlas&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the creator of Touhou project?",
+            "correct_answer": "Zun",
+            "incorrect_answers": [
+                "Jun",
+                "Twilight Frontier",
+                "Tasofro"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the full name of the protagonist from the indie adventure game &quot;Night in the Woods&quot;?",
+            "correct_answer": "Margaret Borowski",
+            "incorrect_answers": [
+                "Marlena Woborski",
+                "Milena Catharina",
+                "Katia Managan"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many steps are there to upgrade a Staff?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "7",
+                "5",
+                "3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s easter egg will reward you with the achievement, &quot;Time Travel Will Tell&quot;?",
+            "correct_answer": "Shangri-La",
+            "incorrect_answers": [
+                "Ascension",
+                "Moon",
+                "Die Rise"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many games are there in the &quot;Colony Wars&quot; series for the PlayStation?",
+            "correct_answer": "3",
+            "incorrect_answers": [
+                "2",
+                "4",
+                "5"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the &quot;Pikmin&quot; games, which of the following pikmin colors lacks it&#039;s own &quot;Onion&quot; nest?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Winged",
+                "Blue",
+                "Rock"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which weapon that was cut from the game &quot;Half Life 2&quot; was going to replace the crowbar?",
+            "correct_answer": "Ice Axe",
+            "incorrect_answers": [
+                "Fire Axe",
+                "Wrench",
+                "Hunting Knife"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Fallout: New Vegas, which one of these casinos can you not play in?",
+            "correct_answer": "Lucky 38",
+            "incorrect_answers": [
+                "The Tops",
+                "Gammorah",
+                "Ultra-Luxe"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?",
+            "correct_answer": "Ace Combat",
+            "incorrect_answers": [
+                "Jet Set Radio",
+                "Deus Ex",
+                "Crimson Skies"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Night In The Woods, where does Gregg work?",
+            "correct_answer": "Snack Falcon",
+            "incorrect_answers": [
+                "Ol&#039; Pickaxe",
+                "Video Outpost &quot;Too&quot;",
+                "Food Donkey"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What year was the video game streaming platform TwitchTV founded?",
+            "correct_answer": "2011",
+            "incorrect_answers": [
+                "2012",
+                "2010",
+                "2014"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the ARPG &quot;Path of Exile,&quot; what is the highest amount of sockets that an item can have?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "5",
+                "4",
+                "8"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Dota 1 hero changed gender when ported to Dota 2?",
+            "correct_answer": "Legion Commander",
+            "incorrect_answers": [
+                "Axe",
+                "Keeper of the Light",
+                "Templar Assassin"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the main protagonist in the game Life is Strange: Before The Storm?",
+            "correct_answer": "Chloe Price ",
+            "incorrect_answers": [
+                "Max Caulfield",
+                "Rachel Amber",
+                "Frank Bowers"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which psychopath(s) in Dead Rising 1 gave you the small chainsaw?",
+            "correct_answer": "Adam the Clown",
+            "incorrect_answers": [
+                "Cliff Hudson",
+                "The convicts",
+                "Larry the butcher"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many obsidian blocks are required to build a nether portal in Minecraft?",
+            "correct_answer": "10",
+            "incorrect_answers": [
+                "14",
+                "13",
+                "16"
+            ]
+        }
+    ]
+}

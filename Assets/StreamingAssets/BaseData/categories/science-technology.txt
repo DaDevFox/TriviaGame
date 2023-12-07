@@ -1,0 +1,1025 @@
+
+#Q In biology, is the Great Apes family a species trinity comprising of chimpanzees, gorillas, and orangutans?
+^ No
+A Yes
+B No
+
+#Q Which one of these three basic chemical compounds can turn the blue litmus into red?
+^ Acid
+A Salt
+B Base
+C None of them
+D Acid
+
+#Q Which Apollo mission was the first one to land on the Moon?
+^ Apollo 11
+  Apollo 10
+  Apollo 11
+  Apollo 9
+  Apollo 13
+
+#Q Which of the following bones is not in the leg?
+^ Radius
+  Patella
+  Tibia
+  Radius
+  Fibula 
+
+#Q Which of these bones is hardest to break?
+^ Femur
+  Femur
+  Cranium
+  Humerus
+  Tibia
+
+#Q What is the largest animal currently on Earth?
+^ Blue Whale
+  Orca
+  Colossal Squid
+  Blue Whale
+  Giraffe
+
+#Q What does the letter 'S' stand for in 'NASA'?
+^ Space
+  Science
+  Space
+  Society
+  Star
+
+#Q Which element has the chemical symbol 'Fe'?
+^ Iron
+  Gold
+  Silver
+  Iron
+  Tin
+
+#Q What name is given to all baby marsupials?
+^ Joey
+  Calf
+  Joey
+  Pup
+  Cub
+
+#Q Rhinoplasty is a surgical procedure on what part of the human body?
+^ Nose
+  Ears
+  Nose
+  Chin
+  Neck
+
+#Q Which is the longest bone in the human body? 
+^ Femur
+  Femur
+  Scapula
+  Fibula
+  Ulna
+
+#Q Which type of rock is created by intense heat AND pressure?
+^ Metamorphic
+  Sedimentary
+  Metamorphic
+  Igneous
+  Diamond
+
+#Q What is the "powerhouse" of the Eukaryotic animal cell?
+^ Mitochondria
+  Nucleus
+  Mitochondria
+  Chloroplast
+  Endoplasmic Reticulum
+
+#Q This element, when overcome with extreme heat and pressure, creates diamonds.
+^ Carbon
+  Nitrogen
+  Carbon
+  Oxygen
+  Hydrogen
+
+#Q What is the elemental symbol for mercury?
+^ Hg
+  Me
+  Mc
+  Hg
+  Hy
+
+#Q How many planets are in our Solar System?
+^ Eight
+  Eight
+  Nine
+  Seven
+  Ten
+
+#Q What is the hottest planet in the Solar System?
+^ Venus
+  Venus
+  Mars
+  Mercury
+  Jupiter
+
+#Q What is the first element on the periodic table?
+^ Hydrogen
+  Helium
+  Oxygen
+  Hydrogen
+  Lithium
+
+#Q Which gas forms about 78% of the Earth's atmosphere?
+^ Nitrogen
+  Oxygen
+  Argon
+  Nitrogen
+  Carbon Dioxide
+
+#Q What is the powerhouse of the cell?
+^ Mitochondria
+  Ribosome
+  Mitochondria
+  Redbull
+  Nucleus
+
+#Q What is the standard SI unit for temperature?
+^ Kelvin
+  Fahrenheit
+  Celsius
+  Kelvin
+  Rankine
+
+#Q How many planets make up our Solar System?
+^ 8
+  7
+  8
+  9
+  6
+
+#Q Which of the following blood vessels carries deoxygenated blood?
+^ Pulmonary Artery
+  Pulmonary Artery
+  Pulmonary Vein
+  Aorta
+  Coronary Artery
+
+#Q What is the chemical makeup of water?
+^ H20
+  H20
+  C12H6O2
+  CO2
+  H
+
+#Q What is the primary addictive substance found in tobacco?
+^ Nicotine
+  Cathinone
+  Nicotine
+  Ephedrine
+  Glaucine
+
+#Q Alzheimer's disease primarily affects which part of the human body?
+^ Brain
+  Lungs
+  Skin
+  Brain
+  Heart
+
+#Q What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?
+^ Sputnik 1
+  Soyuz 7K-OK
+  Zenit-2
+  Sputnik 1
+  Voskhod 3KV
+
+#Q How many bones are in the human body?
+^ 206
+  206
+  203
+  209
+  200s
+
+#Q What does DNA stand for?
+^ Deoxyribonucleic Acid
+  Deoxyribonucleic Acid
+  Deoxyribogenetic Acid
+  Deoxyribogenetic Atoms
+  Detoxic Acid
+
+#Q Who is the chemical element Curium named after?
+^ Marie & Pierre Curie
+  Marie & Pierre Curie
+  The Curiosity Rover
+  Curious George
+  Stephen Curry
+
+#Q The human heart has how many chambers?
+^ 4
+  2
+  4
+  6
+  3
+
+#Q The element involved in making human blood red is which of the following?
+^ Iron
+  Copper
+  Iridium
+  Iron
+  Cobalt
+
+#Q The asteroid belt is located between which two planets?
+^ Mars and Jupiter
+  Jupiter and Saturn
+  Mars and Jupiter
+  Mercury and Venus
+  Earth and Mars
+
+#Q Human cells typically have how many copies of each gene?
+^ 2
+  2
+  1
+  4
+  3
+
+#Q Which is the most abundant element in the universe?
+^ Hydrogen
+  Helium
+  Hydrogen
+  Lithium
+  Oxygen
+
+#Q The medical term for the belly button is which of the following?
+^ Umbilicus
+  Nevus
+  Nares
+  Umbilicus
+  Paxillus
+
+#Q The biggest distinction between a eukaryotic cell and a prokaryotic cell is:
+^ The presence or absence of a nucleus
+  The overall size
+  The presence or absence of a nucleus
+  The presence or absence of certain organelles
+  The mode of reproduction
+
+#Q Which element has the highest melting point?
+^ Carbon
+  Tungsten
+  Carbon
+  Platinum
+  Osmium
+
+#Q How many chromosomes are in your body cells?
+^ 23
+  23
+  21
+  22
+  24
+
+#Q What is the standard atomic weight of a Plutonium nucleus?
+^ 244
+  94
+  481
+  244
+  128
+
+#Q 71% of the Earth's surface is made up of
+^ Water
+  Water
+  Deserts
+  Continents
+  Forests
+
+#Q What does LASER stand for?
+^ Light amplification by stimulated emission of radiation
+  Lite analysing by stereo ecorazer
+  Light amplifier by standby energy of radio
+  Light amplification by stimulated emission of radiation
+  Life antimatter by standing entry of range
+
+#Q What is the unit of electrical resistance?
+^ Ohm
+  Ohm
+  Mho
+  Tesla
+  Joule
+
+#Q What animal takes part in Schrödinger's most famous thought experiment?
+^ Cat
+  Dog
+  Bat
+  Cat
+  Butterfly
+
+#Q What is the speed of light in a vacuum?
+^ 299,792,458 m/s
+  50,461 m/s
+  299,792,458 m/s
+  308,215,043 m/s
+  751,665,014,151 m/s
+
+#Q Which noble gas has the lowest atomic number?
+^ Helium
+  Helium
+  Neon
+  Argon
+  Krypton
+
+#Q What is the official name of the star located closest to the North Celestial Pole?
+^ Polaris
+  Eridanus
+  Polaris
+  Gamma Cephei
+  Iota Cephei
+
+#Q What lies at the center of our galaxy?
+^ A black hole
+  A wormhole
+  A supernova
+  A black hole
+  A quasar
+
+#Q Dry ice is the solid form of what substance?
+^ Carbon dioxide
+  Carbon dioxide
+  Nitrogen
+  Ammonia
+  Oxygen
+
+#Q Which of these Elements is a metalloid?
+^ Antimony
+  Tin
+  Antimony
+  Bromine
+  Rubidium
+
+#Q Igneous rocks are formed by excessive heat and pressure.
+^ False
+  False
+  True
+
+#Q The Doppler effect applies to light.
+^ True
+  True
+  False
+
+#Q What is the colour of unoxidized blood?
+^ Red
+  Blue
+  Purple
+  Red
+  Green
+
+#Q Which element has the chemical symbol 'Fe'?
+^ Iron
+  Gold
+  Silver
+  Iron
+  Tin
+
+#Q Which is the longest bone in the human body? 
+^ Femur
+  Scapula
+  Fibula
+  Femur
+  Ulna
+
+#Q Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.
+^ True
+  True
+  False
+
+#Q In aeronautics, flaps and slats are used to control what on an aircraft?
+^ Lift
+  Thrust
+  Drag
+  Lift
+  Weight 
+
+#Q Which type of rock is created by intense heat AND pressure?
+^ Metamorphic
+  Metamorphic
+  Sedimentary
+  Igneous
+  Diamond
+
+#Q What is the hottest planet in the Solar System?
+^ Venus
+  Mars
+  Venus
+  Mercury
+  Jupiter
+
+#Q How many legs is it biologically impossible for a centipede to have?
+^ 100
+  26
+  50
+  100
+  74
+
+#Q To the nearest minute, how long does it take for light to travel from the Sun to the Earth?
+^ 8 Minutes
+  8 Minutes
+  6 Minutes
+  2 Minutes
+  12 Minutes
+
+#Q What is the powerhouse of the cell?
+^ Mitochondria
+  Mitochondria
+  Ribosome
+  Redbull
+  Nucleus
+
+#Q What is the molecular formula of Glucose?
+^ C6H12O6
+  C2H4O2
+  K+
+  C6H12O6
+  CH4
+
+#Q Steel is an alloy of Iron and Carbon.
+^ True
+  True
+  False
+
+#Q All the following metal elements are liquids at or near room temperature EXCEPT:
+^ Beryllium
+  Beryllium
+  Gallium
+  Caesium
+  Mercury
+
+#Q All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:
+^ Haplogroup U
+  Haplogroup L
+  Haplogroup U
+  Haplogroup T
+  Haplogroup J
+
+#Q Which of the following blood vessels carries deoxygenated blood?
+^ Pulmonary Artery
+  Pulmonary Vein
+  Pulmonary Artery
+  Aorta
+  Coronary Artery
+
+#Q How many officially recognized dwarf planets in the solar system are named after Polynesian deities?
+^ 2
+  0
+  2
+  1
+  5
+
+#Q Shrimp can swim backwards.
+^ True
+  True
+  False
+
+#Q Who is the chemical element Curium named after?
+^ Marie & Pierre Curie
+  The Curiosity Rover
+  Marie & Pierre Curie
+  Curious George
+  Stephen Curry
+
+#Q Which of these is a type of stretch/deep tendon reflex?
+^ Ankle jerk reflex
+  Ankle jerk reflex
+  Gag reflex
+  Pupillary light reflex
+  Scratch reflex
+
+#Q What does the yellow diamond on the NFPA 704 fire diamond represent?
+^ Reactivity
+  Reactivity
+  Health
+  Flammability
+  Radioactivity
+
+#Q The element involved in making human blood red is which of the following?
+^ Iron
+  Iron
+  Copper
+  Iridium
+  Cobalt
+
+#Q Myopia is the scientific term for which condition?
+^ Shortsightedness
+  Farsightedness
+  Double Vision
+  Shortsightedness
+  Clouded Vision
+
+#Q Which of the following plastic is commonly used for window frames, gutters and drain pipes?
+^ Polyvinylchloride (PVC) 
+  Polyvinylchloride (PVC) 
+  Polyethylene (PE)
+  Polypropylene (PP)
+  Polystyrene (PS)
+
+#Q What stage of development do the majority of eukaryotic cells remain in for most of their life?
+^ Interphase
+  Prophase
+  Stasis
+  Interphase
+  Telophase
+
+#Q What is the standard atomic weight of a Plutonium nucleus?
+^ 244
+  244
+  94
+  481
+  128
+
+#Q An exothermic reaction is a chemical reaction that releases energy by radiating electricity.
+^ False
+  False
+  True
+
+#Q What element on the periodic table has 92 electrons?
+^ Uranium
+  Sulfur
+  Uranium
+  Hydrogen
+  Iron
+
+#Q About how old is Earth?
+^ 4.5 Billion Years
+  4.5 Billion Years
+  3.5 Billion Years
+  2.5 Billion Years
+  5.5 Billion Years
+
+#Q The chemical element Lithium is named after the country of Lithuania.
+^ False
+  False
+  True
+
+#Q How much radiation does a banana emit?
+^ 0.1 Microsievert
+  0.1 Microsievert
+  0.3 Microsievert
+  0.5 Microsievert
+  0.7 Microsievert
+
+#Q An average human can go two weeks without water.
+^ False
+  False
+  True
+
+#Q What is the unit of electrical capacitance?
+^ Farad
+  Gauss
+  Farad
+  Henry
+  Watt
+
+#Q What are human nails made of?
+^ Keratin
+  Bone
+  Chitin
+  Keratin
+  Calcium
+
+#Q Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.
+^ True
+  True
+  False
+
+#Q Which planet did the "Viking 1" spacecraft send surface images of, starting in 1976?
+^ Mars
+  Mars
+  Saturn
+  Jupiter
+  Venus
+
+#Q What do you study if you are studying entomology?
+^ Insects
+  Insects
+  Humans
+  the Brain
+  Fish
+
+#Q Which of the following is the term for "surgical complications resulting from surgical sponges left inside the patient's body?
+^ Gossypiboma
+  Gongoozler
+  Gossypiboma
+  Jentacular
+  Meupareunia
+
+#Q Which of the following men does not have a chemical element named after him?
+^ Sir Isaac Newton
+  Albert Einstein
+  Sir Isaac Newton
+  Niels Bohr
+  Enrico Fermi
+
+#Q Water always boils at 100°C, 212°F, 373.15K, no matter where you are.
+^ False
+  False
+  True
+
+#Q What is the speed of light in a vacuum?
+^ 299,792,458 m/s
+  50,461 m/s
+  299,792,458 m/s
+  308,215,043 m/s
+  751,665,014,151 m/s
+
+#Q What is "Stenoma"?
+^ A genus of moths
+  A combat stimulant from WW2
+  A genus of moths
+  A type of seasoning
+  A port city in the carribean
+
+#Q An organism described as "heliotropic" has a tendancy to move towards which of these things?
+^ Light
+  Water
+  Trees
+  Light
+  Pollen
+
+#Q Which portion of the Marijuana plant produces the psychoactive substance known as THC?
+^ Female Flower
+  Leaves
+  Female Flower
+  Male Flower
+  Root Ball
+
+#Q Which of these animals belongs in class Chondrichthyes?
+^ Great white shark
+  Octopus
+  Killer whale
+  Great white shark
+  Catfish
+
+#Q Deionized water is water with which of the following removed?
+^ Iron
+  Oxygen
+  Hydrogen
+  Iron
+  Uncharged atoms
+
+#Q What was the first organic compound to be synthesized from inorganic compounds?
+^ Urea
+  Propane
+  Ethanol
+  Urea
+  Formaldehyde
+
+#Q Which of the following elements is typically used in the doping of the semiconductor silicon?
+^ Boron
+  Oxygen
+  Carbon
+  Boron
+  Iron
+
+#Q Which of the following is NOT a passive electrical component?
+^ Transistor
+  Resistor
+  Capacitor
+  Transistor
+  Inductor
+
+#Q Which of the following bones is not in the leg?
+^ Radius
+  Patella
+  Radius
+  Tibia
+  Fibula 
+
+#Q Along with Oxygen, which element is primarily responsible for the sky appearing blue?
+^ Nitrogen
+  Nitrogen
+  Helium
+  Carbon
+  Hydrogen
+
+#Q Which of the following liquids is least viscous? Assume temperature is 25°C.
+^ Acetone
+  Water
+  Acetone
+  Mercury
+  Benzene
+
+#Q Which is the chemical name of H2O?
+^ Dihydrogen Monoxide
+  Dihydrogen Monoxide
+  Ammonium chloride
+  Anhydrous Sodium Carbonate
+  Manganese dioxide
+
+#Q What name is given to all baby marsupials?
+^ Joey
+  Calf
+  Joey
+  Pup
+  Cub
+
+#Q The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?
+^ Uranus
+  Jupiter
+  Uranus
+  Venus
+  Neptune
+
+#Q The humerus, paired radius, and ulna come together to form what joint?
+^ Elbow
+  Knee
+  Sholder
+  Elbow
+  Ankle
+
+#Q This element, when overcome with extreme heat and pressure, creates diamonds.
+^ Carbon
+  Carbon
+  Nitrogen
+  Oxygen
+  Hydrogen
+
+#Q What is the elemental symbol for mercury?
+^ Hg
+  Me
+  Mc
+  Hg
+  Hy
+
+#Q What common name is given to the medial condition, tibial stress syndrome (MTSS)?
+^ Shin Splints
+  Tennis Elbow
+  Carpal Tunnel
+  Shin Splints
+  Housemaid's Knee
+
+#Q Which gas forms about 78% of the Earth's atmosphere?
+^ Nitrogen
+  Oxygen
+  Argon
+  Nitrogen
+  Carbon Dioxide
+
+#Q How many planets make up our Solar System?
+^ 8
+  7
+  8
+  9
+  6
+
+#Q The "Tibia" is found in which part of the body?
+^ Leg
+  Leg
+  Arm
+  Hand
+  Head
+
+#Q What is the scientific name of the knee cap?
+^ Patella
+  Femur
+  Foramen Magnum
+  Patella
+  Scapula
+
+#Q If you planted the seeds of Quercus robur what would grow?
+^ Trees
+  Flowers
+  Trees
+  Vegtables
+  Grains
+
+#Q Alzheimer's disease primarily affects which part of the human body?
+^ Brain
+  Brain
+  Lungs
+  Skin
+  Heart
+
+#Q What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?
+^ Sputnik 1
+  Sputnik 1
+  Soyuz 7K-OK
+  Zenit-2
+  Voskhod 3KV
+
+#Q What is the chemical formula for ammonia?
+^ NH3
+  NH3
+  CO2
+  NO3
+  CH4
+
+#Q Which of these chemical compounds is NOT found in gastric acid?
+^ Sulfuric acid
+  Hydrochloric acid
+  Potassium chloride
+  Sulfuric acid
+  Sodium chloride
+
+#Q Which is not a type of neuron?
+^ Perceptual Neuron
+  Sensory Neuron
+  Motor Neuron
+  Perceptual Neuron
+  Interneuron
+
+#Q Which moon is the only satellite in our solar system to possess a dense atmosphere?
+^ Titan
+  Titan
+  Europa
+  Miranda
+  Callisto
+
+#Q Which is the most abundant element in the universe?
+^ Hydrogen
+  Helium
+  Hydrogen
+  Lithium
+  Oxygen
+
+#Q What is the molecular formula of Ozone?
+^ O3
+  C6H2O6
+  N2O
+  O3
+  SO4
+
+#Q Which element has the highest melting point?
+^ Carbon
+  Tungsten
+  Carbon
+  Platinum
+  Osmium
+
+#Q At what temperature does water boil?
+^ 212°F
+  200°F
+  212°F
+  181°F
+  178°F
+
+#Q Who made the discovery of X-rays?
+^ Wilhelm Conrad Röntgen
+  Wilhelm Conrad Röntgen
+  Thomas Alva Edison
+  James Watt
+  Albert Einstein
+
+#Q Botanically speaking, which of these fruits is NOT a berry?
+^ Strawberry
+  Blueberry
+  Strawberry
+  Banana
+  Concord Grape
+
+#Q What is the unit of electrical resistance?
+^ Ohm
+  Ohm
+  Mho
+  Tesla
+  Joule
+
+#Q Muscle fiber is constructed of bundles small long organelles called what?
+^ Myofibrils
+  Epimysium
+  Myofibrils
+  Myofiaments
+  Myocardium
+
+#Q The Sun consists of mostly which two elements?
+^ Hydrogen & Helium
+  Hydrogen & Nitrogen
+  Carbon & Nitrogen
+  Hydrogen & Helium
+  Carbon & Helium
+
+#Q Psychology is the science of behavior and mind.
+^ True
+  True
+  False
+
+#Q How long is a light-year?
+^ 9.461 Trillion Kilometres
+  9.461 Trillion Kilometres
+  1 AU
+  105.40 Earth-years
+  501.2 Million Miles
+
+#Q Coulrophobia is the irrational fear of what?
+^ Clowns
+  Cemeteries
+  Clowns
+  Needles
+  Tunnels
+
+#Q The Western Lowland Gorilla is scientifically know as?
+^ Gorilla Gorilla Gorilla
+  Gorilla Gorilla Gorilla
+  Gorilla Gorilla Diehli
+  Gorilla Beringei Graueri
+  Gorilla Beringei Beringei
+
+#Q On the periodic table of elements, what is the symbol for Tin?
+^ Sn
+  Sn
+  Ti
+  Ni
+  Na
+
+#Q Which noble gas has the lowest atomic number?
+^ Helium
+  Helium
+  Neon
+  Argon
+  Krypton
+
+#Q Which scientific unit is named after an Italian nobleman?
+^ Volt
+  Pascal
+  Ohm
+  Volt
+  Hertz
+
+#Q How many protons are in an oxygen atom?
+^ Eight
+  Four
+  Two
+  Eight
+  Six
+
+#Q What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?
+^ Gauss's Law
+  Faraday's Law
+  Ampere's Law
+  Gauss's Law
+  Biot-Savart Law
+
+#Q What is the official name of the star located closest to the North Celestial Pole?
+^ Polaris
+  Polaris
+  Eridanus
+  Gamma Cephei
+  Iota Cephei
+
+#Q Where did the Great Storm of 1987 make landfall at, first?
+^ Cornwall
+  Surrey
+  Cornwall
+  Wales
+  The Midlands
+
+#Q Which color cannot be produced in Roses, even through genetic alteration?
+^ Blue
+  Black
+  Orange
+  Blue
+  Brown
+
+#Q "Tachycardia" or "Tachyarrhythmia" refers to a resting heart-rate near or over 100 BPM.
+^ True
+  True
+  False
+
+#Q Which of these choices is not one of the phases of mitosis?
+^ Diplophase
+  Metaphase
+  Diplophase
+  Anaphase
+  Telophase
+
+#Q Dry ice is the solid form of what substance?
+^ Carbon dioxide
+  Nitrogen
+  Ammonia
+  Carbon dioxide
+  Oxygen
+
+#Q Which of the following is a major muscle of the back?
+^ Trapezius
+  Trapezius
+  Trapezium
+  Trapezoid
+  Triquetrum
+
+#Q Which of the following is considered classical conditioning?
+^ Pavlov's dog experiments
+  Pavlov's dog experiments
+  Skinner box experiment
+  Schrödinger's cat experiment
+  Harlow's monkey experiments
+
+#Q How many types of quarks are there in the standard model of physics?
+^ 6
+  6
+  2
+  3
+  4
+
+#Q In the Scoville scale, what is the hottest chemical?
+^ Resiniferatoxin
+  Capsaicin
+  Dihydrocapsaicin
+  Resiniferatoxin
+  Tinyatoxin
+
+#Q When the Falcon Heavy was launched on it's test flight, what was the only part of the operation that failed?
+^ Center Core Landing
+  Side Booster Landing
+  Deployment of Starman
+  Center Core Landing
+  Ignition and Liftoff
+

@@ -1,0 +1,597 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the code name for the &quot;Nintendo Gamecube&quot;?",
+            "correct_answer": "Dolphin",
+            "incorrect_answers": [
+                "Nitro",
+                "Revolution",
+                "Atlantis"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "&quot;Undertale&quot; is an RPG created by Toby Fox and released in 2015.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which one of the following actors did not voice a character in &quot;Saints Row: The Third&quot;?",
+            "correct_answer": "Ron Jeremy",
+            "incorrect_answers": [
+                "Sasha Grey",
+                "Burt Reynolds",
+                "Hulk Hogan"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which eSports team came first place in The International Dota 2 Championship 2016?",
+            "correct_answer": "Wings Gaming",
+            "incorrect_answers": [
+                "Digital Chaos",
+                "Evil Geniuses",
+                "Fnatic"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which football player is featured on the international cover version of the video game FIFA 16?",
+            "correct_answer": "Lionel Messi",
+            "incorrect_answers": [
+                "Cristiano Ronaldo",
+                "Wayne Rooney",
+                "David Beckham"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does IWHBYD stand for on the skull in the Halo series?",
+            "correct_answer": "I Would Have Been Your Daddy",
+            "incorrect_answers": [
+                "I Wanna Have Babies You Down",
+                "I Would Hate Being Your Driver",
+                "I Would Have Bought Your Dog"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which Mario game did the Mega Mushroom make its debut?",
+            "correct_answer": "Mario Party 4",
+            "incorrect_answers": [
+                "New Super Mario Bros.",
+                "Mario Kart Wii",
+                "Super Mario 3D World"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the founder of Team Fortress 2&#039;s fictional company &quot;Mann Co&quot;?",
+            "correct_answer": "Zepheniah Mann",
+            "incorrect_answers": [
+                "Cave Johnson",
+                "Wallace Breem",
+                "Saxton Hale"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What year did the game &quot;Overwatch&quot; enter closed beta?",
+            "correct_answer": "2015",
+            "incorrect_answers": [
+                "2013",
+                "2011",
+                "2016"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which musical artist was NOT featured as playable avatars in the game &quot;DJ Hero&quot;?",
+            "correct_answer": "Dr. Dre",
+            "incorrect_answers": [
+                "DJ Shadow",
+                "Daft Punk",
+                "Grandmaster Flash"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was Chapter 1 of the Source Engine mod &quot;Underhell&quot; released?",
+            "correct_answer": "September 1st, 2013",
+            "incorrect_answers": [
+                "March 3rd, 2011",
+                "September 12th, 2013",
+                "October 2nd, 2012"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the video game &quot;League of Legends&quot; which character is known as &quot;The Sinister Blade&quot;?",
+            "correct_answer": "Katarina",
+            "incorrect_answers": [
+                "Shaco",
+                "Akali",
+                "Zed"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The voice actor for which Portal 2 character was not a TV or film actor prior to the game?",
+            "correct_answer": "GLaDOS",
+            "incorrect_answers": [
+                "Cave Johnson",
+                "Wheatley",
+                "Atlas \/ P-Body"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these characters was almost added into Super Smash Bros. Melee, but not included as the game was too far in development?",
+            "correct_answer": "Solid Snake",
+            "incorrect_answers": [
+                "Pit",
+                "Meta Knight",
+                "R.O.B."
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was Nintendo&#039;s Virtual Boy released?",
+            "correct_answer": "1995",
+            "incorrect_answers": [
+                "1989",
+                "1997",
+                "1992"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Animal Crossing game was for the Nintendo Wii?",
+            "correct_answer": "Animal Crossing: City Folk",
+            "incorrect_answers": [
+                "Animal Crossing: New Leaf",
+                "Animal Crossing: Wild World",
+                "Animal Crossing: Population Growing!"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is not a default game mode in Counter-Strike (2000)?",
+            "correct_answer": "Arms Race",
+            "incorrect_answers": [
+                "Hostage Rescue",
+                "Bomb Defusal",
+                "Assassination"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who turns out to be the true victor in the Battle of Armageddon in Mortal Kombat?",
+            "correct_answer": "Shao Kahn",
+            "incorrect_answers": [
+                "Liu Kang",
+                "Shang Tsung",
+                "Raiden"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What level do you have to be to get a service medal on CS:GO?",
+            "correct_answer": "40",
+            "incorrect_answers": [
+                "50",
+                "30",
+                "20"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Pok&eacute;mon series, what is Palkia&#039;s hidden ability?",
+            "correct_answer": "Telepathy",
+            "incorrect_answers": [
+                "Pressure",
+                "Water Bubble",
+                "Hydration"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Undertale, how much do Spider Donuts cost in Hotland?",
+            "correct_answer": "9999G",
+            "incorrect_answers": [
+                "7G",
+                "40G",
+                "12G"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Fallout 4&quot;, what is the name of the dog you find at Red Rocket truck stop?",
+            "correct_answer": "Dogmeat",
+            "incorrect_answers": [
+                "Sparky",
+                "Quazar",
+                "Chop"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the original name of  &quot;Minecraft&quot;?",
+            "correct_answer": "Cave Game",
+            "incorrect_answers": [
+                "Minecraft: Order of the Stone",
+                "Dig And Build",
+                "Infiniminer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the real name of the Scout in &quot;Team Fortress 2&quot;?",
+            "correct_answer": "Jeremy",
+            "incorrect_answers": [
+                "Lance",
+                "Walter",
+                "John"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the browser game Kantai Collection heavily inspired by?",
+            "correct_answer": "Second World War",
+            "incorrect_answers": [
+                "Manga",
+                "World of Warcraft",
+                "An Anime"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Paper Mario: The Thousand Year Door&quot;, what is Hooktail&#039;s weakness?",
+            "correct_answer": "The Sound of Crickets",
+            "incorrect_answers": [
+                "Attacks from Koopas",
+                "The &quot;Ice Storm&quot; Item",
+                "The Hammer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many aces can be shot down through the entirety of &quot;Ace Combat Zero: The Belkan War&quot;?",
+            "correct_answer": "169",
+            "incorrect_answers": [
+                "100",
+                "132",
+                "245"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who created the indie adventure game &quot;Night in the Woods&quot;?",
+            "correct_answer": "Alec Holowka",
+            "incorrect_answers": [
+                "Ron Gilbert",
+                "Tim Schafer",
+                " Tommy Refenes"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?",
+            "correct_answer": "Nathan Steele",
+            "incorrect_answers": [
+                "Nate Siemens",
+                "Nick Stamos",
+                "Nolan Stuhlinger"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, what is the name of the machine that upgrades weapons?",
+            "correct_answer": "Pack-A-Punch",
+            "incorrect_answers": [
+                "Wunderfizz",
+                "Gersch Device",
+                "Mule Kick"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, completing which map&#039;s main easter egg will reward you with the achievement, &quot;High Maintenance&quot;?",
+            "correct_answer": "Die Rise",
+            "incorrect_answers": [
+                "Mob Of The Dead",
+                "Origins",
+                "Ascension"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The ghosts in &quot;Pac-Man&quot; and &quot;Ms. Pac-Man&quot; have completely different behavior.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Hidden in the files for &quot;Mario Kart Arcade GP&quot; is a picture of the Beslan school hostage crisis.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "On which planet does the game Freedom Planet (2014) take place?",
+            "correct_answer": "Avalice",
+            "incorrect_answers": [
+                "Freedom",
+                "Galaxytrail",
+                "Shang Mu"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which pop singer was brought in by SEGA to produce the music for &quot;Sonic the Hedgehog 3&quot;?",
+            "correct_answer": "Michael Jackson ",
+            "incorrect_answers": [
+                "Prince",
+                "George Michael",
+                "Vanilla Ice "
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who created Agent 47 in the game series &quot;Hitman&quot;?",
+            "correct_answer": "Dr. Otto Wolfgang Ort-Meyer",
+            "incorrect_answers": [
+                "Professor Hertz Amadeus Schneider",
+                "Dr. Josef Mengele",
+                "Professor Otto Rothwinkler"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, which of these items can&#039;t be used to lower the player&#039;s accumulated radiation?",
+            "correct_answer": "Radioprotectant",
+            "incorrect_answers": [
+                "Anti-rad",
+                "Medkit",
+                "Vodka"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is NOT a Nintendo game console?",
+            "correct_answer": "Dreamcast",
+            "incorrect_answers": [
+                "SNES",
+                "Wii",
+                "Switch"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following Mario Kart 8 Deluxe items will NOT make you invincible?",
+            "correct_answer": "Golden Mushroom",
+            "incorrect_answers": [
+                "Star",
+                "Bullet Bill",
+                "Boo"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Half-Life universe, the Black Mesa Research Facility is located in which US state?",
+            "correct_answer": "New Mexico",
+            "incorrect_answers": [
+                "Nevada",
+                "Arizona",
+                "Wyoming"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;PUBATTLEGROUNDS&quot; what is the name of the Military Base island?",
+            "correct_answer": "Sosnovka",
+            "incorrect_answers": [
+                "Novorepnoye",
+                "Mylta",
+                "Yasnaya"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Disney&#039;s &quot;Toontown Online&quot;, which of these species wasn&#039;t available as a Toon?",
+            "correct_answer": "Cow",
+            "incorrect_answers": [
+                "Monkey",
+                "Bear",
+                "Pig"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which member of the Velvet Room is not a playable character in Persona 4 Arena Ultimax?",
+            "correct_answer": "Theodore",
+            "incorrect_answers": [
+                "Elizabeth",
+                "Margaret",
+                "Marie"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What CoD &quot;Deathstreak&quot; is only featured in Call of Duty : Modern Warfare 2?",
+            "correct_answer": "Copycat",
+            "incorrect_answers": [
+                " Martrydom",
+                "Final Stand",
+                "Revenge"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the game Sonic Forces, which of the following was not from a previous game?",
+            "correct_answer": "Infinite",
+            "incorrect_answers": [
+                "Metal Sonic",
+                "Zavoc",
+                "Chaos"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Where are Terror Fiends more commonly found in the Nintendo game Miitopia?",
+            "correct_answer": "New Lumos",
+            "incorrect_answers": [
+                "Peculia",
+                "The Sky Scraper",
+                "Otherworld"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Psych-Horror &quot;Eternal Darkness: Sanity&#039;s Requiem&quot;, developed by Silicon Knights in 2002, was published by who and on what platform?",
+            "correct_answer": "Nintendo&reg; Co. Ltd. | GameCube&trade;",
+            "incorrect_answers": [
+                "Sony&reg; Computer Entertainment&trade; Inc. | PlayStation&reg; 2",
+                "Microsoft&reg; Game Studios&trade; | XBox&trade;",
+                "Sega&reg; Enterprises Co. Ltd. | Dreamcast&trade;"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Final Fantasy XIV, what is the name of the Deep Dungeon that was introduced in the expansion pack, Heavensward?",
+            "correct_answer": "Palace of the Dead",
+            "incorrect_answers": [
+                "Heaven on High",
+                "Aetherochemical Research Facility",
+                "Sunken Temple of Qarn"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Pokemon Diamond, Pearl and Platinum, where can a Munchlax be found?",
+            "correct_answer": "Honey Trees",
+            "incorrect_answers": [
+                "Trading with an NPC",
+                "Grass on Route 209",
+                "Wayward Cave"
+            ]
+        }
+    ]
+}

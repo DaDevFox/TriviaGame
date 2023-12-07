@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which company developed the video game &quot;Borderlands&quot;?",
+            "correct_answer": "Gearbox Software",
+            "incorrect_answers": [
+                "2K Games",
+                "Activision",
+                "Rockstar Games"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In which series of games do you collect souls to empower you and buy weaponry and armor with?",
+            "correct_answer": "Souls ",
+            "incorrect_answers": [
+                "Final Fantasy ",
+                "Monster Hunter",
+                "The Legend of Zelda"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The main character in the &quot;Half-Life&quot; franchise is named Morgan Freeman.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?",
+            "correct_answer": "Dollar Flu",
+            "incorrect_answers": [
+                "Ebola",
+                "Red Poison",
+                "Smallpox"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What engine did the original &quot;Half-Life&quot; run on?",
+            "correct_answer": "GoldSrc",
+            "incorrect_answers": [
+                "Source",
+                "Quake",
+                "Unreal"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Super Mario Bros. Series, what is Yoshi&#039;s scientific name?",
+            "correct_answer": "T. Yoshisaur Munchakoopas",
+            "incorrect_answers": [
+                "Yoshi",
+                "T. Yoshisotop Munchakoopas",
+                "Yossy"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The song &quot;Megalovania&quot; by Toby Fox made its third appearence in the 2015 RPG &quot;Undertale&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In what engine was Titanfall made in?",
+            "correct_answer": "Source Engine",
+            "incorrect_answers": [
+                "Frostbite 3",
+                "Unreal Engine",
+                "Cryengine"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In World of Warcraft Lore, four Old Gods created a giant and powerful creature. What was it called? ",
+            "correct_answer": "The Ancient One",
+            "incorrect_answers": [
+                "Anomalous",
+                "Eater of Souls",
+                "The Lich King"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Kingdom Hearts, how many members does Organization XIII have in total?",
+            "correct_answer": "14",
+            "incorrect_answers": [
+                "10",
+                "13",
+                "12"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Metal Gear Solid V: The Phantom Pain runs on the Fox Engine.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the game &quot;Overwatch,&quot; which quote does the hero &quot;McCree&quot; NOT say upon using his flashbang ability?",
+            "correct_answer": "&quot;You done?&quot;",
+            "incorrect_answers": [
+                "&quot;Whoa there.&quot;",
+                "&quot;Hold up now.&quot;",
+                "&quot;Don&#039;t move.&quot;"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the beta version of the 1986 game &quot;The Legend of Zelda&quot;, players have the choice between a sword and what other item?",
+            "correct_answer": "Boomerang ",
+            "incorrect_answers": [
+                "Spear",
+                "Slingshot",
+                "Crossbow"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these is NOT a possible drink to be made in the game &quot;VA-11 HALL-A: Cyberpunk Bartender Action&quot;?",
+            "correct_answer": "Sour Appletini",
+            "incorrect_answers": [
+                "Fringe Weaver",
+                "Piano Man",
+                "Bad Touch"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the leader of Team Instinct in Pok&eacute;mon Go?",
+            "correct_answer": "Spark",
+            "incorrect_answers": [
+                "Candela",
+                "Blanche",
+                "Willow"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the default alias that Princess Garnet goes by in Final Fantasy IX?",
+            "correct_answer": "Dagger",
+            "incorrect_answers": [
+                "Dirk",
+                "Garnet",
+                "Quina"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What name does the little headcrab in &quot;Half Life 2&quot; have?",
+            "correct_answer": "Lamarr",
+            "incorrect_answers": [
+                "Jumperr",
+                "Drett",
+                "Jerry"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What company develops the Rock Band series of rhythm games?",
+            "correct_answer": "Harmonix",
+            "incorrect_answers": [
+                "Activision",
+                "Konami",
+                "Electronic Arts"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the Fallout series, on which date did The Great War happen?",
+            "correct_answer": "October 23rd, 2077",
+            "incorrect_answers": [
+                "May 15th, 2058",
+                "December 14th, 2069",
+                "November 5th, 2076"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game &quot;Subnautica&quot;, which feature was removed due to performance issues in 2016?",
+            "correct_answer": "Terraforming",
+            "incorrect_answers": [
+                "Building",
+                "Crafting",
+                "Multiplayer"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the original DOOM games, which of the following demons is a recolor of the Baron of Hell, but is weaker than the Baron?",
+            "correct_answer": "Hell Knight",
+            "incorrect_answers": [
+                "Mancubus",
+                "Pinky",
+                "Arch-Vile"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Ana was added as a new hero for the game Overwatch on July 19th, 2016.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Animal Crossing: New Leaf, which of these paintings from Redd&#039;s Art Gallery is always genuine?",
+            "correct_answer": "Warm Painting",
+            "incorrect_answers": [
+                "Jolly Painting",
+                "Neutral Painting",
+                "Wistful Painting"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Overwatch character says the line &quot;Heroes never die!&quot;?",
+            "correct_answer": "Mercy",
+            "incorrect_answers": [
+                "Reaper",
+                "Sonic",
+                "Ana"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these Pok&eacute;mon cannot learn Surf?",
+            "correct_answer": "Arbok",
+            "incorrect_answers": [
+                "Linoone",
+                "Tauros",
+                "Nidoking"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the Portal series of games, who was the founder of Aperture Science?",
+            "correct_answer": "Cave Johnson",
+            "incorrect_answers": [
+                "GLaDOs",
+                "Wallace Breen",
+                "Gordon Freeman"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "This weapon in Counter-Strike: Global Offensive does not exist in real life.",
+            "correct_answer": "M4A4",
+            "incorrect_answers": [
+                "AWP",
+                "M4A1",
+                "MP9"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the first primary weapon the player gets in &quot;PAYDAY: The Heist&quot;?",
+            "correct_answer": "AMCAR-4",
+            "incorrect_answers": [
+                "Brenner 21",
+                "Reinbeck",
+                "M308"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Terraria, what does the Wall of Flesh not drop upon defeat?",
+            "correct_answer": "Picksaw",
+            "incorrect_answers": [
+                "Pwnhammer",
+                "Breaker Blade",
+                "Laser Rifle"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Mario &amp; Sonic at the Olympic Games&quot;, characters are split into how many types?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "6",
+                "5",
+                "3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In Monster Hunter Generations, guild style is a type of hunting style.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which German city does the map &quot;Clubhouse&quot; in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; take place in?",
+            "correct_answer": "Hannover",
+            "incorrect_answers": [
+                "Berlin",
+                "Hamburg",
+                "Munich"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the game &quot;Hearthstone&quot;, what is the best rank possible?",
+            "correct_answer": "Rank 1 Legend",
+            "incorrect_answers": [
+                "Rank 1 Elite",
+                "Rank 1 Master",
+                "Rank 1 Supreme"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game Pok&eacute;mon Conquest, which warlord is able to bond with Zekrom and a shiny Rayquazza?",
+            "correct_answer": "Nobunaga",
+            "incorrect_answers": [
+                "The Player",
+                "Oichi",
+                "Hideyoshi"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following games in the The Legend of Zelda franchise was released in North America before Japan?",
+            "correct_answer": "The Legend of Zelda: Twilight Princess",
+            "incorrect_answers": [
+                "Zelda II: The Adventure of Link",
+                "The Legend of Zelda: Four Swords Adventures",
+                "The Legend of Zelda: Majora&#039;s Mask"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these stages is not playable in &quot;Super Smash Bros. for Wii U&quot;?",
+            "correct_answer": "Fountain of Dreams",
+            "incorrect_answers": [
+                "Bridge of Eldin",
+                "75m",
+                "Miiverse"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the &quot;Ace Attorney&quot; series, who was the truly responsible of the forging of the autopsy report of the pivotal IS-7 incident?",
+            "correct_answer": "Bansai Ichiyanagi",
+            "incorrect_answers": [
+                "Manfred Von Karma",
+                "Gregory Edgeworth",
+                "Tateyuki Shigaraki"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was the video game publisher &quot;Ubisoft&quot; founded ?",
+            "correct_answer": "March 1986",
+            "incorrect_answers": [
+                "April 1990",
+                "June 2001",
+                "August 1956"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the &quot;Call Of Duty: Zombies&quot; map &quot;Der Riese&quot;, what is the name of the &quot;Pack-A-Punched PPSH-41&quot;?",
+            "correct_answer": "The Reaper",
+            "incorrect_answers": [
+                "Lamentation",
+                "The Grim Reaper",
+                "The Eviscerator  "
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the beginning of the game &quot;Sonic Adventure&quot;, what color Chaos Emerald does Tails own?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Red",
+                "Green",
+                "Blue"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What was the main currency in Club Penguin?",
+            "correct_answer": "Coins",
+            "incorrect_answers": [
+                "Stamps",
+                "Tickets",
+                "Gems"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is the only fighter in the game &quot;Super Smash Bros. Melee&quot; capable of dealing damage with their taunt animation?",
+            "correct_answer": "Luigi",
+            "incorrect_answers": [
+                "Mr. Game &amp; Watch",
+                "Jigglypuff",
+                "Pichu"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Portal, what color is the Morality Core?",
+            "correct_answer": "Purple",
+            "incorrect_answers": [
+                "Red",
+                "Yellow",
+                "Blue"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which Sonic the Hedgehog game introudced Knuckles the Echidna?",
+            "correct_answer": "Sonic the Hedgehog 3",
+            "incorrect_answers": [
+                "Sonic the Hedgehog 2",
+                "Sonic &amp; Knuckles",
+                "Sonic Adventure"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Need for Speed: Underground, what car does Eddie drive?",
+            "correct_answer": "Nissan Skyline GT-R (R34)",
+            "incorrect_answers": [
+                "Mazda RX-7 FD3S",
+                "Acura Integra Type R",
+                "Subaru Impreza 2.5 RS"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which genre is the Touhou Project associated with?",
+            "correct_answer": "Shoot &#039;em up (bullet-hell) &amp; Fighting",
+            "incorrect_answers": [
+                "Turn-Based Strategy",
+                "MMORPG",
+                "Building "
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In Left 4 Dead, what is the character Bill&#039;s last name?",
+            "correct_answer": "Overbeck",
+            "incorrect_answers": [
+                "Fish",
+                "Roberts",
+                "Stevenson"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the &quot;Metal Gear Solid&quot; series, what&#039;s the name of Solid Snake&#039;s brother?",
+            "correct_answer": "Liquid Snake",
+            "incorrect_answers": [
+                "Kulus Snake",
+                "Billy Snake",
+                "Gilur Snake"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of the canceled projected by Blizzard Entertainment that would be later become Overwatch?",
+            "correct_answer": "Titan",
+            "incorrect_answers": [
+                "Omnic",
+                "Omega",
+                "Ghost"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In &quot;Space Station 13&quot;,  the station has a clown aboard it.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}

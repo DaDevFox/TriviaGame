@@ -1,0 +1,585 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Igneous rocks are formed by excessive heat and pressure.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The Doppler effect applies to light.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the colour of unoxidized blood?",
+            "correct_answer": "Red",
+            "incorrect_answers": [
+                "Blue",
+                "Purple",
+                "Green"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+            "correct_answer": "Iron",
+            "incorrect_answers": [
+                "Gold",
+                "Silver",
+                "Tin"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which is the longest bone in the human body? ",
+            "correct_answer": "Femur",
+            "incorrect_answers": [
+                "Scapula",
+                "Fibula",
+                "Ulna"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+            "correct_answer": "Lift",
+            "incorrect_answers": [
+                "Thrust",
+                "Drag",
+                "Weight "
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which type of rock is created by intense heat AND pressure?",
+            "correct_answer": "Metamorphic",
+            "incorrect_answers": [
+                "Sedimentary",
+                "Igneous",
+                "Diamond"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the hottest planet in the Solar System?",
+            "correct_answer": "Venus",
+            "incorrect_answers": [
+                "Mars",
+                "Mercury",
+                "Jupiter"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How many legs is it biologically impossible for a centipede to have?",
+            "correct_answer": "100",
+            "incorrect_answers": [
+                "26",
+                "50",
+                "74"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",
+            "correct_answer": "8 Minutes",
+            "incorrect_answers": [
+                "6 Minutes",
+                "2 Minutes",
+                "12 Minutes"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the powerhouse of the cell?",
+            "correct_answer": "Mitochondria",
+            "incorrect_answers": [
+                "Ribosome",
+                "Redbull",
+                "Nucleus"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is the molecular formula of Glucose?",
+            "correct_answer": "C6H12O6",
+            "incorrect_answers": [
+                "C2H4O2",
+                "K+",
+                "CH4"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Steel is an alloy of Iron and Carbon.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+            "correct_answer": "Beryllium",
+            "incorrect_answers": [
+                "Gallium",
+                "Caesium",
+                "Mercury"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+            "correct_answer": "Haplogroup U",
+            "incorrect_answers": [
+                "Haplogroup L",
+                "Haplogroup T",
+                "Haplogroup J"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following blood vessels carries deoxygenated blood?",
+            "correct_answer": "Pulmonary Artery",
+            "incorrect_answers": [
+                "Pulmonary Vein",
+                "Aorta",
+                "Coronary Artery"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+            "correct_answer": "2",
+            "incorrect_answers": [
+                "0",
+                "1",
+                "5"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Shrimp can swim backwards.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the chemical element Curium named after?",
+            "correct_answer": "Marie &amp; Pierre Curie",
+            "incorrect_answers": [
+                "The Curiosity Rover",
+                "Curious George",
+                "Stephen Curry"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these is a type of stretch\/deep tendon reflex?",
+            "correct_answer": "Ankle jerk reflex",
+            "incorrect_answers": [
+                "Gag reflex",
+                "Pupillary light reflex",
+                "Scratch reflex"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+            "correct_answer": "Reactivity",
+            "incorrect_answers": [
+                "Health",
+                "Flammability",
+                "Radioactivity"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The element involved in making human blood red is which of the following?",
+            "correct_answer": "Iron",
+            "incorrect_answers": [
+                "Copper",
+                "Iridium",
+                "Cobalt"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Myopia is the scientific term for which condition?",
+            "correct_answer": "Shortsightedness",
+            "incorrect_answers": [
+                "Farsightedness",
+                "Double Vision",
+                "Clouded Vision"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following plastic is commonly used for window frames, gutters and drain pipes?",
+            "correct_answer": "Polyvinylchloride (PVC) ",
+            "incorrect_answers": [
+                "Polyethylene (PE)",
+                "Polypropylene (PP)",
+                "Polystyrene (PS)"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+            "correct_answer": "Interphase",
+            "incorrect_answers": [
+                "Prophase",
+                "Stasis",
+                "Telophase"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the standard atomic weight of a Plutonium nucleus?",
+            "correct_answer": "244",
+            "incorrect_answers": [
+                "94",
+                "481",
+                "128"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "An exothermic reaction is a chemical reaction that releases energy by radiating electricity.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What element on the periodic table has 92 electrons?",
+            "correct_answer": "Uranium",
+            "incorrect_answers": [
+                "Sulfur",
+                "Hydrogen",
+                "Iron"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "About how old is Earth?",
+            "correct_answer": "4.5 Billion Years",
+            "incorrect_answers": [
+                "3.5 Billion Years",
+                "2.5 Billion Years",
+                "5.5 Billion Years"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "The chemical element Lithium is named after the country of Lithuania.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "How much radiation does a banana emit?",
+            "correct_answer": "0.1 Microsievert",
+            "incorrect_answers": [
+                "0.3 Microsievert",
+                "0.5 Microsievert",
+                "0.7 Microsievert"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "An average human can go two weeks without water.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the unit of electrical capacitance?",
+            "correct_answer": "Farad",
+            "incorrect_answers": [
+                "Gauss",
+                "Henry",
+                "Watt"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What are human nails made of?",
+            "correct_answer": "Keratin",
+            "incorrect_answers": [
+                "Bone",
+                "Chitin",
+                "Calcium"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which planet did the &quot;Viking 1&quot; spacecraft send surface images of, starting in 1976?",
+            "correct_answer": "Mars",
+            "incorrect_answers": [
+                "Saturn",
+                "Jupiter",
+                "Venus"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What do you study if you are studying entomology?",
+            "correct_answer": "Insects",
+            "incorrect_answers": [
+                "Humans",
+                "the Brain",
+                "Fish"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following is the term for &quot;surgical complications resulting from surgical sponges left inside the patient&#039;s body?",
+            "correct_answer": "Gossypiboma",
+            "incorrect_answers": [
+                "Gongoozler",
+                "Jentacular",
+                "Meupareunia"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following men does not have a chemical element named after him?",
+            "correct_answer": "Sir Isaac Newton",
+            "incorrect_answers": [
+                "Albert Einstein",
+                "Niels Bohr",
+                "Enrico Fermi"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the speed of light in a vacuum?",
+            "correct_answer": "299,792,458 m\/s",
+            "incorrect_answers": [
+                "50,461 m\/s",
+                "308,215,043 m\/s",
+                "751,665,014,151 m\/s"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What is &quot;Stenoma&quot;?",
+            "correct_answer": "A genus of moths",
+            "incorrect_answers": [
+                "A combat stimulant from WW2",
+                "A type of seasoning",
+                "A port city in the carribean"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+            "correct_answer": "Light",
+            "incorrect_answers": [
+                "Water",
+                "Trees",
+                "Pollen"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which portion of the Marijuana plant produces the psychoactive substance known as THC?",
+            "correct_answer": "Female Flower",
+            "incorrect_answers": [
+                "Leaves",
+                "Male Flower",
+                "Root Ball"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of these animals belongs in class Chondrichthyes?",
+            "correct_answer": "Great white shark",
+            "incorrect_answers": [
+                "Octopus",
+                "Killer whale",
+                "Catfish"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Deionized water is water with which of the following removed?",
+            "correct_answer": "Iron",
+            "incorrect_answers": [
+                "Oxygen",
+                "Hydrogen",
+                "Uncharged atoms"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+            "correct_answer": "Urea",
+            "incorrect_answers": [
+                "Propane",
+                "Ethanol",
+                "Formaldehyde"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+            "correct_answer": "Boron",
+            "incorrect_answers": [
+                "Oxygen",
+                "Carbon",
+                "Iron"
+            ]
+        },
+        {
+            "category": "Science & Nature",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following is NOT a passive electrical component?",
+            "correct_answer": "Transistor",
+            "incorrect_answers": [
+                "Resistor",
+                "Capacitor",
+                "Inductor"
+            ]
+        }
+    ]
+}

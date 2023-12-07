@@ -1,0 +1,591 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "Amazon acquired Twitch in August 2014 for $970 million dollars.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+            "correct_answer": "Halo",
+            "incorrect_answers": [
+                "Battlefield",
+                "Call of Duty",
+                "Borderlands"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following created and directed the Katamari Damacy series?",
+            "correct_answer": "Keita Takahashi",
+            "incorrect_answers": [
+                "Hideki Kamiya",
+                "Shu Takumi",
+                "Shinji Mikami"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which one of the following titles by Valve is not based on a Community Mod?",
+            "correct_answer": "Ricochet",
+            "incorrect_answers": [
+                "Day of Defeat",
+                "Counter-Strike",
+                "Alien Swarm"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Pok&eacute;mon Go is a location-based augmented reality game developed and published by which company?",
+            "correct_answer": "Niantic",
+            "incorrect_answers": [
+                "Rovio",
+                "Zynga",
+                "Supercell"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the first female protagonist in a video game?",
+            "correct_answer": "Samus Aran",
+            "incorrect_answers": [
+                "Lara Croft",
+                "Alis Landale",
+                "Chell"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the game &quot;Overwatch,&quot; what are the names of the two Australian criminals from the Junkers faction?",
+            "correct_answer": "Junkrat and Roadhog",
+            "incorrect_answers": [
+                "Roadrat and Junkhog",
+                "Ana and Pharah",
+                "McCree and Deadeye"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The creator of the Touhou Project series is:",
+            "correct_answer": "ZUN",
+            "incorrect_answers": [
+                "SUN",
+                "RUN",
+                "PUN"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was Frank West&#039;s job in &quot;Dead Rising&quot;?",
+            "correct_answer": "Photojournalist",
+            "incorrect_answers": [
+                "Janitor",
+                "Chef",
+                "Taxi Driver"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The &quot;Day of Defeat&quot; series of games take place during which war?",
+            "correct_answer": "World War II",
+            "incorrect_answers": [
+                "World War I",
+                "Vietnam War",
+                "Iraq War"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game Paper Mario for the Nintendo 64 the first partner you meet is a Goomba, what is its name?",
+            "correct_answer": "Goombario",
+            "incorrect_answers": [
+                "Goombella",
+                "Goombarry",
+                "Goomby"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What type of genre is the controversial 2015 game &quot;Hatred&quot;?",
+            "correct_answer": "Shoot &#039;Em Up",
+            "incorrect_answers": [
+                "Point &amp; Click",
+                "MMORPG",
+                "Simulation"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Danganronpa 2: Goodbye Despair featured all of the surviving students from the first game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Splatoon, the Squid Sisters are named Tako and Yaki.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which horror movie had a sequel in the form of a video game released in August 20, 2002?",
+            "correct_answer": "The Thing",
+            "incorrect_answers": [
+                "The Evil Dead",
+                "Saw",
+                "Alien"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Final Fantasy VI was originally released outside Japan under what name?",
+            "correct_answer": "Final Fantasy III",
+            "incorrect_answers": [
+                "Final Fantasy VI",
+                "Final Fantasy V",
+                "Final Fantasy II"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Danganronpa: Trigger Happy Havoc, what is the protagonist&#039;s name?",
+            "correct_answer": "Makoto Naegi",
+            "incorrect_answers": [
+                "Hajime Hinata",
+                "Nagito Komaeda",
+                "Komaru Naegi"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the game Destiny, who succeeded Peter Dinklage in voicing the protagonist&#039;s &quot;Ghost&quot;?",
+            "correct_answer": "Nolan North",
+            "incorrect_answers": [
+                "John DiMaggio",
+                "Mark Hamill",
+                " Troy Baker"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?",
+            "correct_answer": "Crawfish",
+            "incorrect_answers": [
+                "Lobster",
+                "Salmon",
+                "Swordfish"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many flagship monsters appear in Monster Hunter Gernerations?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "2",
+                "3"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+            "correct_answer": "Festung Recogne",
+            "incorrect_answers": [
+                "Ste. Mere-Eglise (Day)",
+                "Chateau",
+                "Brecourt"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The name of the Metroid series comes from what?",
+            "correct_answer": "An enemy in the game",
+            "incorrect_answers": [
+                "The final boss&#039;s name",
+                "The main character&#039;s name",
+                "A spaceship&#039;s name"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "According to Overwatch&#039;s lore, who was once a member of the Deadlock Gang?",
+            "correct_answer": "McCree",
+            "incorrect_answers": [
+                "Roadhog",
+                "Soldier 76",
+                "Junkrat"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Sean Bean voices the character of &quot;Martin Septim&quot; in which Elder Scrolls game?",
+            "correct_answer": "The Elder Scrolls IV: Oblivion",
+            "incorrect_answers": [
+                "The Elder Scrolls V: Skyrim",
+                "The Elder Scrolls III: Morrowind ",
+                "The Elder Scrolls Online"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In which &quot;Call of Duty&quot; game are the &quot;Apothicons&quot; introduced in the Zombies mode?",
+            "correct_answer": "Call Of Duty: Black Ops III",
+            "incorrect_answers": [
+                "Call Of Duty: Black Ops",
+                "Call Of Duty: World At War",
+                "Call Of Duty: Black Ops II"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of the following colors does the Zombie eyes glow in the &quot;Nuketown&quot; map in &quot;Call of Duty: Black Ops II&quot; Zombies mode?",
+            "correct_answer": "Yellow and Blue",
+            "incorrect_answers": [
+                "Yellow and Red",
+                "Red and Blue",
+                "Blue and White"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, you can upgrade the &quot;Apothicon Servant&quot; in the &quot;Shadows Of Evil&quot; map.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which map introduced the perk &quot;PhD Flopper&quot;?",
+            "correct_answer": "Ascension",
+            "incorrect_answers": [
+                "Moon",
+                "Call Of The Dead",
+                "Die Rise"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+            "correct_answer": "Hudson Mohawke",
+            "incorrect_answers": [
+                "Rustie",
+                "Machinedrum",
+                "Flying Lotus"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who developed the 2016 farming RPG &quot;Stardew Valley&quot;?",
+            "correct_answer": "Eric Barone",
+            "incorrect_answers": [
+                "Daisuke Amaya",
+                "Jasper Byrne",
+                "Lucas Pope"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which one of these games came out first?",
+            "correct_answer": "Terraria",
+            "incorrect_answers": [
+                "Minecraft",
+                "Starbound",
+                "Factorio"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the name of Joel&#039;s daughter in the game, &quot;The Last of Us&quot;? ",
+            "correct_answer": "Sarah",
+            "incorrect_answers": [
+                "Ellie",
+                "Tess",
+                "Marlene"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Grand Theft Auto: V, what wanted level does the player receive if they enter Zancudo Army Base north of Los Santos?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "3",
+                "5",
+                "1"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the first game in the &quot;Battlefield&quot; series?",
+            "correct_answer": "Battlefield 1942",
+            "incorrect_answers": [
+                "Battlefield Vietnam",
+                "Battlefield 2",
+                "Battlefield 1"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In the &quot;S.T.A.L.K.E.R.&quot; series, the Freedom faction wishes to destroy the supernatural area known as  &quot;the Zone&quot;.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "In career mode of &quot;Need for Speed: Underground 2&quot;, the first car the player can drive is the BMW M3 GTR.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the original Spyro game who is the first villain?",
+            "correct_answer": "Gnasty Gnorc",
+            "incorrect_answers": [
+                "Ripto",
+                "Sorceress",
+                "Cynder"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the PAYDAY series, who is the iconic leader of the PAYDAY gang?",
+            "correct_answer": "Dallas",
+            "incorrect_answers": [
+                "Wolf",
+                "Chains",
+                "Hoxton"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In &quot;Kingdom Hearts&quot;, who abducts Jasmine in the Lamp Chamber?",
+            "correct_answer": "Riku",
+            "incorrect_answers": [
+                "Riku Replica",
+                "Xaldin",
+                "Captain Hook"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "In Until Dawn, both characters Sam and Mike cannot be killed under any means until the final chapter of the game.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is a class in the game &quot;Hearthstone&quot;?",
+            "correct_answer": "Priest",
+            "incorrect_answers": [
+                "Sage",
+                "Cleric",
+                "Monk"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the adventurer you meet at the mines in Stardew Valley?",
+            "correct_answer": "Marlon",
+            "incorrect_answers": [
+                "Marnie",
+                "Morris",
+                "Marvin"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following Zelda games did not feature Ganon as a final boss?",
+            "correct_answer": "Majora&#039;s Mask",
+            "incorrect_answers": [
+                "Ocarina of Time",
+                "Skyward Sword",
+                "Breath of the Wild"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Divinity: Original Sin II, what is the name of the skeletal origin character?",
+            "correct_answer": "Fane",
+            "incorrect_answers": [
+                "Lohse",
+                "The Red Prince",
+                "There are no skeletal origin characters"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Grand Theft Auto (GTA) games have the same setting?",
+            "correct_answer": "GTA V and GTA San Andreas",
+            "incorrect_answers": [
+                "GTA V and GTA Vice City",
+                "GTA IV and GTA San Andreas",
+                "GTA IV and GTA Vice City"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is Sora&#039;s Nobody in Kingdom Hearts?",
+            "correct_answer": "Roxas",
+            "incorrect_answers": [
+                "Riku",
+                "Kairi",
+                "Mickey"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which soccer player is featured on the cover of EA Sport&#039;s FIFA 18?",
+            "correct_answer": "Cristiano Ronaldo",
+            "incorrect_answers": [
+                "Lionel Messi",
+                "Neymar",
+                "Harry Kane"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who is the main villain of Kirby&#039;s Return to Dreamland?",
+            "correct_answer": "Magolor",
+            "incorrect_answers": [
+                "Landia",
+                "King Dedede",
+                "Queen Sectonia "
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the video game &quot;Postal 2&quot;, what is the name of Postal Dude&#039;s dog?",
+            "correct_answer": "Champ",
+            "incorrect_answers": [
+                "Snoopy",
+                "Krotchy",
+                "Duke"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In the video game DOTA 2, which of these is NOT a hero?",
+            "correct_answer": "Dragon Champion",
+            "incorrect_answers": [
+                "Dark Seer",
+                "Keeper of the Light",
+                "Mirana"
+            ]
+        }
+    ]
+}
