@@ -312,6 +312,14 @@ public static class Reader
         Debug.Log("finished parsing");
     }
 
+    private static Color[] defaultColors = new Color[]
+    {
+        Color.red,
+        Color.green,
+        Color.blue,
+        Color.yellow
+    };
+
     public static void ParseProfiles()
     {
         TextAsset[] profiles = Assets.LoadAllStreaming<TextAsset>(profilesDataSource);
@@ -325,6 +333,29 @@ public static class Reader
             target.id = i;
             target.ReadFileText(profileText.text);
 
+            i++;
+        }
+
+        while (i < 4)
+        {
+            Profile profile =
+            new Profile()
+            {
+                id = i,
+                name = $"Player {i}",
+                color = defaultColors[i]
+            };
+
+            Profiles.registry[i] = profile;
+
+            string outputPath = $@"{Application.streamingAssetsPath}\{profilesDataSource}\{profile.id}.txt";
+            using (var stream = new FileStream(outputPath, FileMode.OpenOrCreate, FileAccess.ReadWrite))
+            {
+                using (var writer = new StreamWriter(stream))
+                {
+                    writer.Write(profile.FileText());
+                }
+            }
             i++;
         }
     }
