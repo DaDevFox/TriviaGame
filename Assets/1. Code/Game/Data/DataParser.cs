@@ -104,7 +104,7 @@ public class Profile
         string name = lines[0];
 
         string[] colorComponents = lines[1].Split(',');
-        Color color = new Color(int.Parse(colorComponents[0]), int.Parse(colorComponents[1]), int.Parse(colorComponents[2]));
+        Color color = new Color(int.Parse(colorComponents[0]) / 255f, int.Parse(colorComponents[1]) / 255f, int.Parse(colorComponents[2]) / 255f);
 
         Dictionary<string, int> points = new Dictionary<string, int>();
         Dictionary<string, int> possiblePoints = new Dictionary<string, int>();
