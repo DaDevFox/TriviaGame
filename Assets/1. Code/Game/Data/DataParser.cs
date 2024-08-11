@@ -78,7 +78,7 @@ public class Profile
     {
         string text = "";
         text += $"{name}\n";
-        text += $"{color.r},{color.g},{color.b}\n";
+        text += $"{(int)(color.r * 255f)},{(int)(color.g * 255f)},{(int)(color.b * 255f)}\n";
         text += $"points:\n";
         foreach (KeyValuePair<string, int> pointCategory in points)
             text += $"\t{pointCategory.Key}:{pointCategory.Value}\n";
@@ -342,7 +342,7 @@ public static class Reader
             new Profile()
             {
                 id = i,
-                name = $"Player {i}",
+                name = $"Player {i + 1}",
                 color = defaultColors[i]
             };
 
