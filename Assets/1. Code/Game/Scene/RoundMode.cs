@@ -284,7 +284,7 @@ public class RoundMode : MonoBehaviour
          {1, new RoundController[] { new SimpleMCQRound("Themed Questions", 200, 0, 5, false, false, false), new SimpleMCQRound("Randomagories", 200, 0, 5, false, true)}},
          {2, new RoundController[] { new NumbersGameRound()}},
          {3, new RoundController[] { new SimpleMCQRound("Think on it", 1000, 500, 3, false, false, true, "brain-teasers") }},
-        {4, new RoundController[] { new ShakeItUpRound(5)}}
+        //{4, new RoundController[] { new ShakeItUpRound(5)}}
     };
 
     [Header("Scene Controllers")]

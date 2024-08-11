@@ -30,8 +30,8 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
 
     public static InputAction[] claimInputActions;
 
-    public void Init(){
-        // asdf
+    public void Init()
+    {
         claimInputActions = new InputAction[] {
                 InputManager.MainInput.MCQMapping.OptionBottom,
                 InputManager.MainInput.MCQMapping.OptionRight,
@@ -49,10 +49,12 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
         points.Sort();
 
         List<int> playerOrder = new List<int>();
-        for (int i = 0; i < points.Count; i++){
-
-            for (int j = 0; j < Game.players.Length; j++){
-                if(points[i] == Game.players[j].points && !playerOrder.Contains(j)){
+        for (int i = 0; i < points.Count; i++)
+        {
+            for (int j = 0; j < Game.players.Length; j++)
+            {
+                if (points[i] == Game.players[j].points && !playerOrder.Contains(j))
+                {
                     playerOrder.Add(j);
                     break;
                 }
@@ -60,9 +62,10 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
         }
 
 
-        for (int i = 0; i < playerTexts.Length; i++){
+        for (int i = 0; i < playerTexts.Length; i++)
+        {
             string text = Game.players[i].name;
-            if(InputManager.GamepadConnected)
+            if (InputManager.GamepadConnected)
                 text += $" ({claimInputActions[i].GetBindingDisplayString()})";
             playerTexts[i].text = text;
             playerTexts[i].transform.parent.parent.GetComponent<Image>().color = Game.players[i].color;
@@ -83,7 +86,8 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
 
     }
 
-    void Update(){
+    void Update()
+    {
         for (int i = 0; i < claimInputActions.Length; i++)
         {
             InputAction action = claimInputActions[i];
@@ -100,10 +104,12 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
         }
     }
 
-    public void UpdateDisplay(){
-        for(int i = 0; i < playerTexts.Length; i++){
+    public void UpdateDisplay()
+    {
+        for (int i = 0; i < playerTexts.Length; i++)
+        {
             string text = Game.players[i].name;
-            if(InputManager.GamepadConnected)
+            if (InputManager.GamepadConnected)
                 text += $" ({claimInputActions[i].GetBindingDisplayString()})";
             playerTexts[i].text = text;
             Color color = Game.players[i].color;
@@ -117,17 +123,20 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
         {
             playerTurnText.text = Game.players[playerTurn].name;
             playerTurnText.color = Game.players[playerTurn].color;
-        }else{
+        }
+        else
+        {
             playerTurnText.text = "All categories assigned";
             playerTurnText.color = Color.white;
         }
     }
 
-    public void ReportPlayerClicked(int num){
-        if(num == playerTurn)
+    public void ReportPlayerClicked(int num)
+    {
+        if (num == playerTurn)
             return;
 
-        if(categoriesPicked.ContainsKey(num))
+        if (categoriesPicked.ContainsKey(num))
             return;
 
         gameObject.SetActive(false);
@@ -157,14 +166,16 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
         if (idx == Game.players.Length)
         {
             StartCoroutine("CompleteProcedure");
-        }else
+        }
+        else
             playerTurn = playerOrder[idx];
 
 
         UpdateDisplay();
     }
 
-    public IEnumerator CompleteProcedure(){
+    public IEnumerator CompleteProcedure()
+    {
         yield return new WaitForSeconds(3f);
 
         for (int i = 0; i < Game.players.Length; i++)
@@ -173,7 +184,8 @@ public class ShakeItUpPlayerClaimSlide : MonoBehaviour
         OnComplete.Invoke();
     }
 
-    public bool CheckComplete(){
+    public bool CheckComplete()
+    {
         for (int i = 0; i < Game.players.Length; i++)
             if (!categoriesPicked.ContainsKey(i))
                 return false;
